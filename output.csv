@@ -1,0 +1,1001 @@
+nameWithOwner,url,primaryLanguage,all_issues,closed_issues
+freeCodeCamp/freeCodeCamp,https://github.com/freeCodeCamp/freeCodeCamp,{'name': 'JavaScript'},{'totalCount': 14385},{'totalCount': 14198}
+996icu/996.ICU,https://github.com/996icu/996.ICU,{'name': 'Rust'},{'totalCount': 0},{'totalCount': 0}
+vuejs/vue,https://github.com/vuejs/vue,{'name': 'JavaScript'},{'totalCount': 8983},{'totalCount': 8669}
+facebook/react,https://github.com/facebook/react,{'name': 'JavaScript'},{'totalCount': 9106},{'totalCount': 8615}
+EbookFoundation/free-programming-books,https://github.com/EbookFoundation/free-programming-books,,{'totalCount': 427},{'totalCount': 400}
+tensorflow/tensorflow,https://github.com/tensorflow/tensorflow,{'name': 'C++'},{'totalCount': 24788},{'totalCount': 21452}
+twbs/bootstrap,https://github.com/twbs/bootstrap,{'name': 'JavaScript'},{'totalCount': 19237},{'totalCount': 18930}
+sindresorhus/awesome,https://github.com/sindresorhus/awesome,,{'totalCount': 249},{'totalCount': 235}
+getify/You-Dont-Know-JS,https://github.com/getify/You-Dont-Know-JS,,{'totalCount': 832},{'totalCount': 759}
+jwasham/coding-interview-university,https://github.com/jwasham/coding-interview-university,,{'totalCount': 113},{'totalCount': 86}
+ohmyzsh/ohmyzsh,https://github.com/ohmyzsh/ohmyzsh,{'name': 'Shell'},{'totalCount': 3318},{'totalCount': 3087}
+kamranahmedse/developer-roadmap,https://github.com/kamranahmedse/developer-roadmap,,{'totalCount': 418},{'totalCount': 404}
+github/gitignore,https://github.com/github/gitignore,,{'totalCount': 0},{'totalCount': 0}
+CyC2018/CS-Notes,https://github.com/CyC2018/CS-Notes,{'name': 'Java'},{'totalCount': 397},{'totalCount': 367}
+microsoft/vscode,https://github.com/microsoft/vscode,{'name': 'TypeScript'},{'totalCount': 88657},{'totalCount': 83945}
+airbnb/javascript,https://github.com/airbnb/javascript,{'name': 'JavaScript'},{'totalCount': 981},{'totalCount': 902}
+donnemartin/system-design-primer,https://github.com/donnemartin/system-design-primer,{'name': 'Python'},{'totalCount': 116},{'totalCount': 33}
+flutter/flutter,https://github.com/flutter/flutter,{'name': 'Dart'},{'totalCount': 36470},{'totalCount': 28974}
+d3/d3,https://github.com/d3/d3,{'name': 'JavaScript'},{'totalCount': 2034},{'totalCount': 2030}
+torvalds/linux,https://github.com/torvalds/linux,{'name': 'C'},{'totalCount': 0},{'totalCount': 0}
+facebook/react-native,https://github.com/facebook/react-native,{'name': 'JavaScript'},{'totalCount': 19320},{'totalCount': 18587}
+jackfrued/Python-100-Days,https://github.com/jackfrued/Python-100-Days,{'name': 'Jupyter Notebook'},{'totalCount': 342},{'totalCount': 65}
+electron/electron,https://github.com/electron/electron,{'name': 'C++'},{'totalCount': 12879},{'totalCount': 11752}
+vinta/awesome-python,https://github.com/vinta/awesome-python,{'name': 'Python'},{'totalCount': 166},{'totalCount': 165}
+public-apis/public-apis,https://github.com/public-apis/public-apis,{'name': 'Python'},{'totalCount': 128},{'totalCount': 123}
+facebook/create-react-app,https://github.com/facebook/create-react-app,{'name': 'JavaScript'},{'totalCount': 5771},{'totalCount': 5282}
+Snailclimb/JavaGuide,https://github.com/Snailclimb/JavaGuide,{'name': 'Java'},{'totalCount': 375},{'totalCount': 349}
+jlevy/the-art-of-command-line,https://github.com/jlevy/the-art-of-command-line,,{'totalCount': 163},{'totalCount': 79}
+axios/axios,https://github.com/axios/axios,{'name': 'JavaScript'},{'totalCount': 2274},{'totalCount': 2038}
+golang/go,https://github.com/golang/go,{'name': 'Go'},{'totalCount': 37618},{'totalCount': 31987}
+TheAlgorithms/Python,https://github.com/TheAlgorithms/Python,{'name': 'Python'},{'totalCount': 287},{'totalCount': 276}
+danistefanovic/build-your-own-x,https://github.com/danistefanovic/build-your-own-x,,{'totalCount': 314},{'totalCount': 264}
+nodejs/node,https://github.com/nodejs/node,{'name': 'JavaScript'},{'totalCount': 11563},{'totalCount': 10590}
+trekhleb/javascript-algorithms,https://github.com/trekhleb/javascript-algorithms,{'name': 'JavaScript'},{'totalCount': 134},{'totalCount': 83}
+animate-css/animate.css,https://github.com/animate-css/animate.css,{'name': 'CSS'},{'totalCount': 702},{'totalCount': 701}
+justjavac/free-programming-books-zh_CN,https://github.com/justjavac/free-programming-books-zh_CN,,{'totalCount': 0},{'totalCount': 0}
+kubernetes/kubernetes,https://github.com/kubernetes/kubernetes,{'name': 'Go'},{'totalCount': 34610},{'totalCount': 32584}
+ytdl-org/youtube-dl,https://github.com/ytdl-org/youtube-dl,{'name': 'Python'},{'totalCount': 20196},{'totalCount': 17406}
+tensorflow/models,https://github.com/tensorflow/models,{'name': 'Python'},{'totalCount': 5277},{'totalCount': 4438}
+FortAwesome/Font-Awesome,https://github.com/FortAwesome/Font-Awesome,{'name': 'JavaScript'},{'totalCount': 15920},{'totalCount': 10644}
+microsoft/terminal,https://github.com/microsoft/terminal,{'name': 'C++'},{'totalCount': 4528},{'totalCount': 3667}
+puppeteer/puppeteer,https://github.com/puppeteer/puppeteer,{'name': 'JavaScript'},{'totalCount': 3923},{'totalCount': 2945}
+angular/angular,https://github.com/angular/angular,{'name': 'TypeScript'},{'totalCount': 20696},{'totalCount': 17850}
+mrdoob/three.js,https://github.com/mrdoob/three.js,{'name': 'JavaScript'},{'totalCount': 9694},{'totalCount': 9247}
+microsoft/TypeScript,https://github.com/microsoft/TypeScript,{'name': 'TypeScript'},{'totalCount': 26191},{'totalCount': 21790}
+angular/angular.js,https://github.com/angular/angular.js,{'name': 'JavaScript'},{'totalCount': 8986},{'totalCount': 8596}
+ossu/computer-science,https://github.com/ossu/computer-science,,{'totalCount': 447},{'totalCount': 441}
+ant-design/ant-design,https://github.com/ant-design/ant-design,{'name': 'TypeScript'},{'totalCount': 17159},{'totalCount': 16710}
+laravel/laravel,https://github.com/laravel/laravel,{'name': 'PHP'},{'totalCount': 0},{'totalCount': 0}
+iluwatar/java-design-patterns,https://github.com/iluwatar/java-design-patterns,{'name': 'Java'},{'totalCount': 541},{'totalCount': 379}
+mui-org/material-ui,https://github.com/mui-org/material-ui,{'name': 'JavaScript'},{'totalCount': 11027},{'totalCount': 10650}
+moby/moby,https://github.com/moby/moby,{'name': 'Go'},{'totalCount': 20160},{'totalCount': 16563}
+30-seconds/30-seconds-of-code,https://github.com/30-seconds/30-seconds-of-code,{'name': 'JavaScript'},{'totalCount': 241},{'totalCount': 241}
+avelino/awesome-go,https://github.com/avelino/awesome-go,{'name': 'Go'},{'totalCount': 217},{'totalCount': 209}
+webpack/webpack,https://github.com/webpack/webpack,{'name': 'JavaScript'},{'totalCount': 7080},{'totalCount': 6724}
+vuejs/awesome-vue,https://github.com/vuejs/awesome-vue,,{'totalCount': 170},{'totalCount': 109}
+PanJiaChen/vue-element-admin,https://github.com/PanJiaChen/vue-element-admin,{'name': 'Vue'},{'totalCount': 2683},{'totalCount': 2100}
+MisterBooo/LeetCodeAnimation,https://github.com/MisterBooo/LeetCodeAnimation,{'name': 'Java'},{'totalCount': 32},{'totalCount': 32}
+nvbn/thefuck,https://github.com/nvbn/thefuck,{'name': 'Python'},{'totalCount': 540},{'totalCount': 349}
+jquery/jquery,https://github.com/jquery/jquery,{'name': 'JavaScript'},{'totalCount': 2006},{'totalCount': 1942}
+reduxjs/redux,https://github.com/reduxjs/redux,{'name': 'TypeScript'},{'totalCount': 1757},{'totalCount': 1728}
+atom/atom,https://github.com/atom/atom,{'name': 'JavaScript'},{'totalCount': 15659},{'totalCount': 15086}
+apple/swift,https://github.com/apple/swift,{'name': 'C++'},{'totalCount': 0},{'totalCount': 0}
+hakimel/reveal.js,https://github.com/hakimel/reveal.js,{'name': 'JavaScript'},{'totalCount': 1779},{'totalCount': 1311}
+pallets/flask,https://github.com/pallets/flask,{'name': 'Python'},{'totalCount': 1927},{'totalCount': 1906}
+socketio/socket.io,https://github.com/socketio/socket.io,{'name': 'JavaScript'},{'totalCount': 2838},{'totalCount': 2362}
+shadowsocks/shadowsocks-windows,https://github.com/shadowsocks/shadowsocks-windows,{'name': 'C#'},{'totalCount': 2486},{'totalCount': 2441}
+django/django,https://github.com/django/django,{'name': 'Python'},{'totalCount': 0},{'totalCount': 0}
+elastic/elasticsearch,https://github.com/elastic/elasticsearch,{'name': 'Java'},{'totalCount': 23638},{'totalCount': 21204}
+chartjs/Chart.js,https://github.com/chartjs/Chart.js,{'name': 'JavaScript'},{'totalCount': 5099},{'totalCount': 4709}
+expressjs/express,https://github.com/expressjs/express,{'name': 'JavaScript'},{'totalCount': 3274},{'totalCount': 3180}
+denoland/deno,https://github.com/denoland/deno,{'name': 'TypeScript'},{'totalCount': 1871},{'totalCount': 1471}
+keras-team/keras,https://github.com/keras-team/keras,{'name': 'Python'},{'totalCount': 10094},{'totalCount': 7133}
+zeit/next.js,https://github.com/zeit/next.js,{'name': 'JavaScript'},{'totalCount': 6303},{'totalCount': 5867}
+Semantic-Org/Semantic-UI,https://github.com/Semantic-Org/Semantic-UI,{'name': 'JavaScript'},{'totalCount': 6091},{'totalCount': 5211}
+storybookjs/storybook,https://github.com/storybookjs/storybook,{'name': 'TypeScript'},{'totalCount': 5276},{'totalCount': 4750}
+spring-projects/spring-boot,https://github.com/spring-projects/spring-boot,{'name': 'Java'},{'totalCount': 17051},{'totalCount': 16618}
+typicode/json-server,https://github.com/typicode/json-server,{'name': 'JavaScript'},{'totalCount': 864},{'totalCount': 394}
+chrislgarry/Apollo-11,https://github.com/chrislgarry/Apollo-11,{'name': 'Assembly'},{'totalCount': 359},{'totalCount': 264}
+tonsky/FiraCode,https://github.com/tonsky/FiraCode,{'name': 'Clojure'},{'totalCount': 892},{'totalCount': 652}
+jakubroztocil/httpie,https://github.com/jakubroztocil/httpie,{'name': 'Python'},{'totalCount': 599},{'totalCount': 462}
+netdata/netdata,https://github.com/netdata/netdata,{'name': 'C'},{'totalCount': 5174},{'totalCount': 4476}
+adam-p/markdown-here,https://github.com/adam-p/markdown-here,{'name': 'JavaScript'},{'totalCount': 542},{'totalCount': 290}
+rails/rails,https://github.com/rails/rails,{'name': 'Ruby'},{'totalCount': 13709},{'totalCount': 13308}
+xingshaocheng/architect-awesome,https://github.com/xingshaocheng/architect-awesome,,{'totalCount': 62},{'totalCount': 18}
+ElemeFE/element,https://github.com/ElemeFE/element,{'name': 'Vue'},{'totalCount': 14999},{'totalCount': 13526}
+h5bp/html5-boilerplate,https://github.com/h5bp/html5-boilerplate,{'name': 'JavaScript'},{'totalCount': 1166},{'totalCount': 1161}
+lodash/lodash,https://github.com/lodash/lodash,{'name': 'JavaScript'},{'totalCount': 3653},{'totalCount': 3593}
+rust-lang/rust,https://github.com/rust-lang/rust,{'name': 'Rust'},{'totalCount': 34103},{'totalCount': 28688}
+josephmisiti/awesome-machine-learning,https://github.com/josephmisiti/awesome-machine-learning,{'name': 'Python'},{'totalCount': 63},{'totalCount': 63}
+h5bp/Front-end-Developer-Interview-Questions,https://github.com/h5bp/Front-end-Developer-Interview-Questions,{'name': 'HTML'},{'totalCount': 97},{'totalCount': 93}
+resume/resume.github.com,https://github.com/resume/resume.github.com,{'name': 'JavaScript'},{'totalCount': 83},{'totalCount': 54}
+opencv/opencv,https://github.com/opencv/opencv,{'name': 'C++'},{'totalCount': 6553},{'totalCount': 4846}
+awesome-selfhosted/awesome-selfhosted,https://github.com/awesome-selfhosted/awesome-selfhosted,{'name': 'JavaScript'},{'totalCount': 511},{'totalCount': 450}
+gatsbyjs/gatsby,https://github.com/gatsbyjs/gatsby,{'name': 'JavaScript'},{'totalCount': 10313},{'totalCount': 9673}
+moment/moment,https://github.com/moment/moment,{'name': 'JavaScript'},{'totalCount': 3656},{'totalCount': 3280}
+gohugoio/hugo,https://github.com/gohugoio/hugo,{'name': 'Go'},{'totalCount': 4597},{'totalCount': 4119}
+kdn251/interviews,https://github.com/kdn251/interviews,{'name': 'Java'},{'totalCount': 43},{'totalCount': 16}
+goldbergyoni/nodebestpractices,https://github.com/goldbergyoni/nodebestpractices,{'name': 'JavaScript'},{'totalCount': 178},{'totalCount': 160}
+bitcoin/bitcoin,https://github.com/bitcoin/bitcoin,{'name': 'C++'},{'totalCount': 5403},{'totalCount': 4838}
+doocs/advanced-java,https://github.com/doocs/advanced-java,{'name': 'Java'},{'totalCount': 94},{'totalCount': 84}
+ansible/ansible,https://github.com/ansible/ansible,{'name': 'Python'},{'totalCount': 27063},{'totalCount': 22886}
+antirez/redis,https://github.com/antirez/redis,{'name': 'C'},{'totalCount': 4169},{'totalCount': 2373}
+ReactiveX/RxJava,https://github.com/ReactiveX/RxJava,{'name': 'Java'},{'totalCount': 2910},{'totalCount': 2899}
+yangshun/tech-interview-handbook,https://github.com/yangshun/tech-interview-handbook,{'name': 'JavaScript'},{'totalCount': 0},{'totalCount': 0}
+psf/requests,https://github.com/psf/requests,{'name': 'Python'},{'totalCount': 3127},{'totalCount': 2904}
+meteor/meteor,https://github.com/meteor/meteor,{'name': 'JavaScript'},{'totalCount': 8315},{'totalCount': 8214}
+nvm-sh/nvm,https://github.com/nvm-sh/nvm,{'name': 'Shell'},{'totalCount': 1378},{'totalCount': 1138}
+mtdvio/every-programmer-should-know,https://github.com/mtdvio/every-programmer-should-know,,{'totalCount': 28},{'totalCount': 16}
+protocolbuffers/protobuf,https://github.com/protocolbuffers/protobuf,{'name': 'C++'},{'totalCount': 3883},{'totalCount': 2982}
+kelseyhightower/nocode,https://github.com/kelseyhightower/nocode,{'name': 'Dockerfile'},{'totalCount': 3520},{'totalCount': 417}
+ionic-team/ionic,https://github.com/ionic-team/ionic,{'name': 'TypeScript'},{'totalCount': 17389},{'totalCount': 16615}
+apache/incubator-echarts,https://github.com/apache/incubator-echarts,{'name': 'JavaScript'},{'totalCount': 11862},{'totalCount': 10100}
+scikit-learn/scikit-learn,https://github.com/scikit-learn/scikit-learn,{'name': 'Python'},{'totalCount': 7409},{'totalCount': 5886}
+ReactTraining/react-router,https://github.com/ReactTraining/react-router,{'name': 'JavaScript'},{'totalCount': 5412},{'totalCount': 5377}
+jekyll/jekyll,https://github.com/jekyll/jekyll,{'name': 'Ruby'},{'totalCount': 4176},{'totalCount': 4082}
+papers-we-love/papers-we-love,https://github.com/papers-we-love/papers-we-love,{'name': 'Shell'},{'totalCount': 128},{'totalCount': 116}
+gothinkster/realworld,https://github.com/gothinkster/realworld,{'name': 'JavaScript'},{'totalCount': 335},{'totalCount': 141}
+google/material-design-icons,https://github.com/google/material-design-icons,{'name': 'CSS'},{'totalCount': 862},{'totalCount': 306}
+jgthms/bulma,https://github.com/jgthms/bulma,{'name': 'CSS'},{'totalCount': 2005},{'totalCount': 1802}
+thedaviddias/Front-End-Checklist,https://github.com/thedaviddias/Front-End-Checklist,,{'totalCount': 107},{'totalCount': 94}
+awesomedata/awesome-public-datasets,https://github.com/awesomedata/awesome-public-datasets,,{'totalCount': 88},{'totalCount': 42}
+necolas/normalize.css,https://github.com/necolas/normalize.css,{'name': 'CSS'},{'totalCount': 458},{'totalCount': 439}
+yarnpkg/yarn,https://github.com/yarnpkg/yarn,{'name': 'JavaScript'},{'totalCount': 5787},{'totalCount': 3679}
+pytorch/pytorch,https://github.com/pytorch/pytorch,{'name': 'C++'},{'totalCount': 13965},{'totalCount': 9657}
+labuladong/fucking-algorithm,https://github.com/labuladong/fucking-algorithm,,{'totalCount': 164},{'totalCount': 132}
+wasabeef/awesome-android-ui,https://github.com/wasabeef/awesome-android-ui,,{'totalCount': 0},{'totalCount': 0}
+NARKOZ/hacker-scripts,https://github.com/NARKOZ/hacker-scripts,{'name': 'JavaScript'},{'totalCount': 56},{'totalCount': 24}
+gin-gonic/gin,https://github.com/gin-gonic/gin,{'name': 'Go'},{'totalCount': 1372},{'totalCount': 1160}
+scutan90/DeepLearning-500-questions,https://github.com/scutan90/DeepLearning-500-questions,,{'totalCount': 151},{'totalCount': 75}
+jaywcjlove/awesome-mac,https://github.com/jaywcjlove/awesome-mac,{'name': 'JavaScript'},{'totalCount': 261},{'totalCount': 209}
+Dogfalo/materialize,https://github.com/Dogfalo/materialize,{'name': 'JavaScript'},{'totalCount': 5118},{'totalCount': 4540}
+aymericdamien/TensorFlow-Examples,https://github.com/aymericdamien/TensorFlow-Examples,{'name': 'Jupyter Notebook'},{'totalCount': 208},{'totalCount': 61}
+google/guava,https://github.com/google/guava,{'name': 'Java'},{'totalCount': 3112},{'totalCount': 2481}
+scrapy/scrapy,https://github.com/scrapy/scrapy,{'name': 'Python'},{'totalCount': 2181},{'totalCount': 1739}
+Hack-with-Github/Awesome-Hacking,https://github.com/Hack-with-Github/Awesome-Hacking,,{'totalCount': 0},{'totalCount': 0}
+square/okhttp,https://github.com/square/okhttp,{'name': 'Java'},{'totalCount': 3062},{'totalCount': 2992}
+FreeCodeCampChina/freecodecamp.cn,https://github.com/FreeCodeCampChina/freecodecamp.cn,{'name': 'CSS'},{'totalCount': 585},{'totalCount': 442}
+spring-projects/spring-framework,https://github.com/spring-projects/spring-framework,{'name': 'Java'},{'totalCount': 19443},{'totalCount': 18573}
+nwjs/nw.js,https://github.com/nwjs/nw.js,{'name': 'JavaScript'},{'totalCount': 6644},{'totalCount': 5890}
+enaqx/awesome-react,https://github.com/enaqx/awesome-react,,{'totalCount': 62},{'totalCount': 60}
+neovim/neovim,https://github.com/neovim/neovim,{'name': 'Vim script'},{'totalCount': 5475},{'totalCount': 4633}
+babel/babel,https://github.com/babel/babel,{'name': 'JavaScript'},{'totalCount': 7075},{'totalCount': 6460}
+prettier/prettier,https://github.com/prettier/prettier,{'name': 'JavaScript'},{'totalCount': 4185},{'totalCount': 3548}
+android/architecture-samples,https://github.com/android/architecture-samples,{'name': 'Kotlin'},{'totalCount': 381},{'totalCount': 272}
+minimaxir/big-list-of-naughty-strings,https://github.com/minimaxir/big-list-of-naughty-strings,{'name': 'Python'},{'totalCount': 72},{'totalCount': 27}
+serverless/serverless,https://github.com/serverless/serverless,{'name': 'JavaScript'},{'totalCount': 4346},{'totalCount': 3570}
+impress/impress.js,https://github.com/impress/impress.js,{'name': 'JavaScript'},{'totalCount': 436},{'totalCount': 392}
+sindresorhus/awesome-nodejs,https://github.com/sindresorhus/awesome-nodejs,,{'totalCount': 89},{'totalCount': 89}
+parcel-bundler/parcel,https://github.com/parcel-bundler/parcel,{'name': 'JavaScript'},{'totalCount': 2956},{'totalCount': 2409}
+fatedier/frp,https://github.com/fatedier/frp,{'name': 'Go'},{'totalCount': 1423},{'totalCount': 1377}
+square/retrofit,https://github.com/square/retrofit,{'name': 'Java'},{'totalCount': 2361},{'totalCount': 2272}
+ryanmcdermott/clean-code-javascript,https://github.com/ryanmcdermott/clean-code-javascript,{'name': 'JavaScript'},{'totalCount': 91},{'totalCount': 61}
+juliangarnier/anime,https://github.com/juliangarnier/anime,{'name': 'JavaScript'},{'totalCount': 533},{'totalCount': 436}
+nodejs/node-v0.x-archive,https://github.com/nodejs/node-v0.x-archive,,{'totalCount': 6383},{'totalCount': 5848}
+x64dbg/x64dbg,https://github.com/x64dbg/x64dbg,{'name': 'C++'},{'totalCount': 1784},{'totalCount': 1405}
+ripienaar/free-for-dev,https://github.com/ripienaar/free-for-dev,{'name': 'HTML'},{'totalCount': 0},{'totalCount': 0}
+vsouza/awesome-ios,https://github.com/vsouza/awesome-ios,{'name': 'Swift'},{'totalCount': 431},{'totalCount': 430}
+grafana/grafana,https://github.com/grafana/grafana,{'name': 'TypeScript'},{'totalCount': 15801},{'totalCount': 13259}
+ziishaned/learn-regex,https://github.com/ziishaned/learn-regex,,{'totalCount': 68},{'totalCount': 32}
+astaxie/build-web-application-with-golang,https://github.com/astaxie/build-web-application-with-golang,{'name': 'Go'},{'totalCount': 277},{'totalCount': 170}
+ColorlibHQ/AdminLTE,https://github.com/ColorlibHQ/AdminLTE,{'name': 'JavaScript'},{'totalCount': 2150},{'totalCount': 2105}
+tesseract-ocr/tesseract,https://github.com/tesseract-ocr/tesseract,{'name': 'C++'},{'totalCount': 1822},{'totalCount': 1541}
+gogs/gogs,https://github.com/gogs/gogs,{'name': 'Go'},{'totalCount': 4532},{'totalCount': 3878}
+macrozheng/mall,https://github.com/macrozheng/mall,{'name': 'Java'},{'totalCount': 271},{'totalCount': 258}
+MaximAbramchuck/awesome-interview-questions,https://github.com/MaximAbramchuck/awesome-interview-questions,,{'totalCount': 22},{'totalCount': 19}
+ageitgey/face_recognition,https://github.com/ageitgey/face_recognition,{'name': 'Python'},{'totalCount': 980},{'totalCount': 508}
+k88hudson/git-flight-rules,https://github.com/k88hudson/git-flight-rules,,{'totalCount': 54},{'totalCount': 46}
+TryGhost/Ghost,https://github.com/TryGhost/Ghost,{'name': 'JavaScript'},{'totalCount': 5739},{'totalCount': 5687}
+sveltejs/svelte,https://github.com/sveltejs/svelte,{'name': 'JavaScript'},{'totalCount': 2749},{'totalCount': 2358}
+Alamofire/Alamofire,https://github.com/Alamofire/Alamofire,{'name': 'Swift'},{'totalCount': 2334},{'totalCount': 2315}
+prakhar1989/awesome-courses,https://github.com/prakhar1989/awesome-courses,,{'totalCount': 58},{'totalCount': 33}
+zeit/hyper,https://github.com/zeit/hyper,{'name': 'TypeScript'},{'totalCount': 2981},{'totalCount': 2229}
+bailicangdu/vue2-elm,https://github.com/bailicangdu/vue2-elm,{'name': 'Vue'},{'totalCount': 490},{'totalCount': 424}
+home-assistant/core,https://github.com/home-assistant/core,{'name': 'Python'},{'totalCount': 14238},{'totalCount': 13276}
+AFNetworking/AFNetworking,https://github.com/AFNetworking/AFNetworking,{'name': 'Objective-C'},{'totalCount': 3021},{'totalCount': 3006}
+soimort/you-get,https://github.com/soimort/you-get,{'name': 'Python'},{'totalCount': 0},{'totalCount': 0}
+shadowsocks/shadowsocks,https://github.com/shadowsocks/shadowsocks,{'name': 'Python'},{'totalCount': 0},{'totalCount': 0}
+git/git,https://github.com/git/git,{'name': 'C'},{'totalCount': 0},{'totalCount': 0}
+Unitech/pm2,https://github.com/Unitech/pm2,{'name': 'JavaScript'},{'totalCount': 3936},{'totalCount': 3096}
+trimstray/the-book-of-secret-knowledge,https://github.com/trimstray/the-book-of-secret-knowledge,,{'totalCount': 37},{'totalCount': 36}
+tuvtran/project-based-learning,https://github.com/tuvtran/project-based-learning,,{'totalCount': 26},{'totalCount': 15}
+apache/dubbo,https://github.com/apache/dubbo,{'name': 'Java'},{'totalCount': 3396},{'totalCount': 2887}
+leonardomso/33-js-concepts,https://github.com/leonardomso/33-js-concepts,{'name': 'JavaScript'},{'totalCount': 25},{'totalCount': 23}
+gulpjs/gulp,https://github.com/gulpjs/gulp,{'name': 'JavaScript'},{'totalCount': 1801},{'totalCount': 1771}
+JetBrains/kotlin,https://github.com/JetBrains/kotlin,{'name': 'Kotlin'},{'totalCount': 0},{'totalCount': 0}
+azl397985856/leetcode,https://github.com/azl397985856/leetcode,{'name': 'JavaScript'},{'totalCount': 158},{'totalCount': 135}
+google/material-design-lite,https://github.com/google/material-design-lite,{'name': 'HTML'},{'totalCount': 2144},{'totalCount': 1787}
+sdmg15/Best-websites-a-programmer-should-visit,https://github.com/sdmg15/Best-websites-a-programmer-should-visit,,{'totalCount': 46},{'totalCount': 45}
+adobe/brackets,https://github.com/adobe/brackets,{'name': 'JavaScript'},{'totalCount': 9490},{'totalCount': 6999}
+justjavac/awesome-wechat-weapp,https://github.com/justjavac/awesome-wechat-weapp,,{'totalCount': 0},{'totalCount': 0}
+syncthing/syncthing,https://github.com/syncthing/syncthing,{'name': 'Go'},{'totalCount': 4050},{'totalCount': 3791}
+v2ray/v2ray-core,https://github.com/v2ray/v2ray-core,{'name': 'Go'},{'totalCount': 2113},{'totalCount': 1902}
+etcd-io/etcd,https://github.com/etcd-io/etcd,{'name': 'Go'},{'totalCount': 4843},{'totalCount': 4643}
+python/cpython,https://github.com/python/cpython,{'name': 'Python'},{'totalCount': 0},{'totalCount': 0}
+facebook/jest,https://github.com/facebook/jest,{'name': 'TypeScript'},{'totalCount': 5331},{'totalCount': 4421}
+karan/Projects,https://github.com/karan/Projects,,{'totalCount': 56},{'totalCount': 29}
+blueimp/jQuery-File-Upload,https://github.com/blueimp/jQuery-File-Upload,{'name': 'PHP'},{'totalCount': 3218},{'totalCount': 3173}
+discourse/discourse,https://github.com/discourse/discourse,{'name': 'Ruby'},{'totalCount': 0},{'totalCount': 0}
+prometheus/prometheus,https://github.com/prometheus/prometheus,{'name': 'Go'},{'totalCount': 3321},{'totalCount': 3045}
+PhilJay/MPAndroidChart,https://github.com/PhilJay/MPAndroidChart,{'name': 'Java'},{'totalCount': 4437},{'totalCount': 2778}
+mozilla/pdf.js,https://github.com/mozilla/pdf.js,{'name': 'JavaScript'},{'totalCount': 6739},{'totalCount': 6144}
+cdr/code-server,https://github.com/cdr/code-server,{'name': 'TypeScript'},{'totalCount': 1326},{'totalCount': 1241}
+hexojs/hexo,https://github.com/hexojs/hexo,{'name': 'JavaScript'},{'totalCount': 3451},{'totalCount': 3324}
+deepfakes/faceswap,https://github.com/deepfakes/faceswap,{'name': 'Python'},{'totalCount': 594},{'totalCount': 581}
+BVLC/caffe,https://github.com/BVLC/caffe,{'name': 'C++'},{'totalCount': 4701},{'totalCount': 3863}
+tiimgreen/github-cheat-sheet,https://github.com/tiimgreen/github-cheat-sheet,,{'totalCount': 43},{'totalCount': 40}
+sahat/hackathon-starter,https://github.com/sahat/hackathon-starter,{'name': 'JavaScript'},{'totalCount': 564},{'totalCount': 554}
+XX-net/XX-Net,https://github.com/XX-net/XX-Net,{'name': 'Python'},{'totalCount': 12443},{'totalCount': 4982}
+godotengine/godot,https://github.com/godotengine/godot,{'name': 'C++'},{'totalCount': 22656},{'totalCount': 16832}
+alvarotrigo/fullPage.js,https://github.com/alvarotrigo/fullPage.js,{'name': 'JavaScript'},{'totalCount': 3492},{'totalCount': 3335}
+Trinea/android-open-project,https://github.com/Trinea/android-open-project,,{'totalCount': 80},{'totalCount': 68}
+mermaid-js/mermaid,https://github.com/mermaid-js/mermaid,{'name': 'JavaScript'},{'totalCount': 993},{'totalCount': 833}
+Genymobile/scrcpy,https://github.com/Genymobile/scrcpy,{'name': 'C'},{'totalCount': 1243},{'totalCount': 869}
+slatedocs/slate,https://github.com/slatedocs/slate,{'name': 'JavaScript'},{'totalCount': 545},{'totalCount': 504}
+immutable-js/immutable-js,https://github.com/immutable-js/immutable-js,{'name': 'JavaScript'},{'totalCount': 1164},{'totalCount': 1022}
+shadowsocks/shadowsocks-android,https://github.com/shadowsocks/shadowsocks-android,{'name': 'Kotlin'},{'totalCount': 2153},{'totalCount': 2136}
+521xueweihan/HelloGitHub,https://github.com/521xueweihan/HelloGitHub,{'name': 'Python'},{'totalCount': 1179},{'totalCount': 1170}
+pixijs/pixi.js,https://github.com/pixijs/pixi.js,{'name': 'TypeScript'},{'totalCount': 4034},{'totalCount': 3965}
+styled-components/styled-components,https://github.com/styled-components/styled-components,{'name': 'JavaScript'},{'totalCount': 2089},{'totalCount': 1978}
+algorithm-visualizer/algorithm-visualizer,https://github.com/algorithm-visualizer/algorithm-visualizer,{'name': 'JavaScript'},{'totalCount': 72},{'totalCount': 56}
+koajs/koa,https://github.com/koajs/koa,{'name': 'JavaScript'},{'totalCount': 772},{'totalCount': 750}
+junegunn/fzf,https://github.com/junegunn/fzf,{'name': 'Go'},{'totalCount': 1578},{'totalCount': 1426}
+bumptech/glide,https://github.com/bumptech/glide,{'name': 'Java'},{'totalCount': 3699},{'totalCount': 3557}
+airbnb/lottie-android,https://github.com/airbnb/lottie-android,{'name': 'Java'},{'totalCount': 1124},{'totalCount': 1087}
+containous/traefik,https://github.com/containous/traefik,{'name': 'Go'},{'totalCount': 3701},{'totalCount': 3214}
+chinese-poetry/chinese-poetry,https://github.com/chinese-poetry/chinese-poetry,{'name': 'JavaScript'},{'totalCount': 119},{'totalCount': 71}
+fastlane/fastlane,https://github.com/fastlane/fastlane,{'name': 'Ruby'},{'totalCount': 10494},{'totalCount': 10334}
+apache/incubator-superset,https://github.com/apache/incubator-superset,{'name': 'Python'},{'totalCount': 4445},{'totalCount': 4194}
+foundation/foundation-sites,https://github.com/foundation/foundation-sites,{'name': 'HTML'},{'totalCount': 7954},{'totalCount': 7697}
+Avik-Jain/100-Days-Of-ML-Code,https://github.com/Avik-Jain/100-Days-Of-ML-Code,{'name': 'Python'},{'totalCount': 0},{'totalCount': 0}
+exacity/deeplearningbook-chinese,https://github.com/exacity/deeplearningbook-chinese,{'name': 'TeX'},{'totalCount': 175},{'totalCount': 130}
+zenorocha/clipboard.js,https://github.com/zenorocha/clipboard.js,{'name': 'JavaScript'},{'totalCount': 522},{'totalCount': 512}
+testerSunshine/12306,https://github.com/testerSunshine/12306,{'name': 'Python'},{'totalCount': 625},{'totalCount': 453}
+huginn/huginn,https://github.com/huginn/huginn,{'name': 'Ruby'},{'totalCount': 1669},{'totalCount': 1298}
+videojs/video.js,https://github.com/videojs/video.js,{'name': 'JavaScript'},{'totalCount': 3983},{'totalCount': 3765}
+caddyserver/caddy,https://github.com/caddyserver/caddy,{'name': 'Go'},{'totalCount': 2114},{'totalCount': 2042}
+kamranahmedse/design-patterns-for-humans,https://github.com/kamranahmedse/design-patterns-for-humans,,{'totalCount': 49},{'totalCount': 42}
+DefinitelyTyped/DefinitelyTyped,https://github.com/DefinitelyTyped/DefinitelyTyped,{'name': 'TypeScript'},{'totalCount': 6505},{'totalCount': 3273}
+Homebrew/legacy-homebrew,https://github.com/Homebrew/legacy-homebrew,,{'totalCount': 17038},{'totalCount': 17038}
+Leaflet/Leaflet,https://github.com/Leaflet/Leaflet,{'name': 'JavaScript'},{'totalCount': 4272},{'totalCount': 3879}
+shadowsocks/ShadowsocksX-NG,https://github.com/shadowsocks/ShadowsocksX-NG,{'name': 'Swift'},{'totalCount': 1187},{'totalCount': 982}
+jashkenas/backbone,https://github.com/jashkenas/backbone,{'name': 'JavaScript'},{'totalCount': 2384},{'totalCount': 2329}
+Solido/awesome-flutter,https://github.com/Solido/awesome-flutter,{'name': 'Dart'},{'totalCount': 0},{'totalCount': 0}
+ariya/phantomjs,https://github.com/ariya/phantomjs,{'name': 'C++'},{'totalCount': 4707},{'totalCount': 4677}
+lukehoban/es6features,https://github.com/lukehoban/es6features,,{'totalCount': 55},{'totalCount': 36}
+photonstorm/phaser,https://github.com/photonstorm/phaser,{'name': 'JavaScript'},{'totalCount': 3247},{'totalCount': 3061}
+php/php-src,https://github.com/php/php-src,{'name': 'C'},{'totalCount': 0},{'totalCount': 0}
+isocpp/CppCoreGuidelines,https://github.com/isocpp/CppCoreGuidelines,{'name': 'Python'},{'totalCount': 799},{'totalCount': 637}
+dypsilon/frontend-dev-bookmarks,https://github.com/dypsilon/frontend-dev-bookmarks,,{'totalCount': 93},{'totalCount': 77}
+jondot/awesome-react-native,https://github.com/jondot/awesome-react-native,{'name': 'JavaScript'},{'totalCount': 51},{'totalCount': 33}
+joshbuchea/HEAD,https://github.com/joshbuchea/HEAD,,{'totalCount': 82},{'totalCount': 71}
+iamkun/dayjs,https://github.com/iamkun/dayjs,{'name': 'JavaScript'},{'totalCount': 391},{'totalCount': 335}
+nuxt/nuxt.js,https://github.com/nuxt/nuxt.js,{'name': 'JavaScript'},{'totalCount': 5094},{'totalCount': 4799}
+Blankj/AndroidUtilCode,https://github.com/Blankj/AndroidUtilCode,{'name': 'Java'},{'totalCount': 1062},{'totalCount': 1053}
+tldr-pages/tldr,https://github.com/tldr-pages/tldr,{'name': 'Shell'},{'totalCount': 511},{'totalCount': 441}
+JuliaLang/julia,https://github.com/JuliaLang/julia,{'name': 'Julia'},{'totalCount': 17689},{'totalCount': 14817}
+certbot/certbot,https://github.com/certbot/certbot,{'name': 'Python'},{'totalCount': 4362},{'totalCount': 3850}
+nestjs/nest,https://github.com/nestjs/nest,{'name': 'TypeScript'},{'totalCount': 2556},{'totalCount': 2485}
+codepath/android_guides,https://github.com/codepath/android_guides,,{'totalCount': 362},{'totalCount': 211}
+RocketChat/Rocket.Chat,https://github.com/RocketChat/Rocket.Chat,{'name': 'JavaScript'},{'totalCount': 10659},{'totalCount': 8467}
+tastejs/todomvc,https://github.com/tastejs/todomvc,{'name': 'JavaScript'},{'totalCount': 734},{'totalCount': 618}
+caolan/async,https://github.com/caolan/async,{'name': 'JavaScript'},{'totalCount': 1047},{'totalCount': 1045}
+bilibili/ijkplayer,https://github.com/bilibili/ijkplayer,{'name': 'C'},{'totalCount': 4826},{'totalCount': 2412}
+quilljs/quill,https://github.com/quilljs/quill,{'name': 'JavaScript'},{'totalCount': 2581},{'totalCount': 1807}
+0voice/interview_internal_reference,https://github.com/0voice/interview_internal_reference,{'name': 'Python'},{'totalCount': 34},{'totalCount': 18}
+huggingface/transformers,https://github.com/huggingface/transformers,{'name': 'Jupyter Notebook'},{'totalCount': 2850},{'totalCount': 2408}
+preactjs/preact,https://github.com/preactjs/preact,{'name': 'JavaScript'},{'totalCount': 1177},{'totalCount': 1075}
+xitu/gold-miner,https://github.com/xitu/gold-miner,,{'totalCount': 4357},{'totalCount': 4323}
+open-guides/og-aws,https://github.com/open-guides/og-aws,{'name': 'Shell'},{'totalCount': 199},{'totalCount': 79}
+floodsung/Deep-Learning-Papers-Reading-Roadmap,https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap,{'name': 'Python'},{'totalCount': 41},{'totalCount': 3}
+bayandin/awesome-awesomeness,https://github.com/bayandin/awesome-awesomeness,{'name': 'Ruby'},{'totalCount': 55},{'totalCount': 49}
+alex/what-happens-when,https://github.com/alex/what-happens-when,,{'totalCount': 100},{'totalCount': 19}
+apache/spark,https://github.com/apache/spark,{'name': 'Scala'},{'totalCount': 0},{'totalCount': 0}
+grpc/grpc,https://github.com/grpc/grpc,{'name': 'C++'},{'totalCount': 8490},{'totalCount': 7979}
+binhnguyennus/awesome-scalability,https://github.com/binhnguyennus/awesome-scalability,,{'totalCount': 0},{'totalCount': 0}
+ethereum/go-ethereum,https://github.com/ethereum/go-ethereum,{'name': 'Go'},{'totalCount': 4826},{'totalCount': 4566}
+Kong/kong,https://github.com/Kong/kong,{'name': 'Lua'},{'totalCount': 2931},{'totalCount': 2614}
+proxyee-down-org/proxyee-down,https://github.com/proxyee-down-org/proxyee-down,{'name': 'Java'},{'totalCount': 0},{'totalCount': 0}
+kenwheeler/slick,https://github.com/kenwheeler/slick,{'name': 'JavaScript'},{'totalCount': 3309},{'totalCount': 2318}
+fffaraz/awesome-cpp,https://github.com/fffaraz/awesome-cpp,,{'totalCount': 449},{'totalCount': 149}
+react-boilerplate/react-boilerplate,https://github.com/react-boilerplate/react-boilerplate,{'name': 'JavaScript'},{'totalCount': 1785},{'totalCount': 1758}
+jashkenas/underscore,https://github.com/jashkenas/underscore,{'name': 'JavaScript'},{'totalCount': 1355},{'totalCount': 1306}
+zxing/zxing,https://github.com/zxing/zxing,{'name': 'Java'},{'totalCount': 994},{'totalCount': 986}
+JakeWharton/butterknife,https://github.com/JakeWharton/butterknife,{'name': 'Java'},{'totalCount': 1122},{'totalCount': 1028}
+vuetifyjs/vuetify,https://github.com/vuetifyjs/vuetify,{'name': 'TypeScript'},{'totalCount': 8330},{'totalCount': 7270}
+vuejs/vue-cli,https://github.com/vuejs/vue-cli,{'name': 'JavaScript'},{'totalCount': 4211},{'totalCount': 3735}
+NervJS/taro,https://github.com/NervJS/taro,{'name': 'JavaScript'},{'totalCount': 5152},{'totalCount': 4301}
+shengxinjing/programmer-job-blacklist,https://github.com/shengxinjing/programmer-job-blacklist,{'name': 'Shell'},{'totalCount': 290},{'totalCount': 169}
+aosabook/500lines,https://github.com/aosabook/500lines,{'name': 'JavaScript'},{'totalCount': 61},{'totalCount': 36}
+ant-design/ant-design-pro,https://github.com/ant-design/ant-design-pro,{'name': 'TypeScript'},{'totalCount': 5358},{'totalCount': 5288}
+getsentry/sentry,https://github.com/getsentry/sentry,{'name': 'Python'},{'totalCount': 4016},{'totalCount': 3103}
+pandas-dev/pandas,https://github.com/pandas-dev/pandas,{'name': 'Python'},{'totalCount': 17889},{'totalCount': 14511}
+apachecn/AiLearning,https://github.com/apachecn/AiLearning,{'name': 'Python'},{'totalCount': 86},{'totalCount': 55}
+square/leakcanary,https://github.com/square/leakcanary,{'name': 'Kotlin'},{'totalCount': 1130},{'totalCount': 1094}
+faif/python-patterns,https://github.com/faif/python-patterns,{'name': 'Python'},{'totalCount': 61},{'totalCount': 52}
+akullpp/awesome-java,https://github.com/akullpp/awesome-java,,{'totalCount': 96},{'totalCount': 95}
+crossoverJie/JCSprout,https://github.com/crossoverJie/JCSprout,{'name': 'Java'},{'totalCount': 87},{'totalCount': 59}
+request/request,https://github.com/request/request,{'name': 'JavaScript'},{'totalCount': 2142},{'totalCount': 2005}
+nylas/nylas-mail,https://github.com/nylas/nylas-mail,{'name': 'JavaScript'},{'totalCount': 3421},{'totalCount': 2416}
+Tencent/weui,https://github.com/Tencent/weui,{'name': 'CSS'},{'totalCount': 607},{'totalCount': 583}
+strapi/strapi,https://github.com/strapi/strapi,{'name': 'JavaScript'},{'totalCount': 3439},{'totalCount': 3202}
+danielmiessler/SecLists,https://github.com/danielmiessler/SecLists,{'name': 'PHP'},{'totalCount': 106},{'totalCount': 98}
+dylanaraps/pure-bash-bible,https://github.com/dylanaraps/pure-bash-bible,{'name': 'Shell'},{'totalCount': 47},{'totalCount': 23}
+select2/select2,https://github.com/select2/select2,{'name': 'JavaScript'},{'totalCount': 4456},{'totalCount': 4416}
+wg/wrk,https://github.com/wg/wrk,{'name': 'C'},{'totalCount': 308},{'totalCount': 221}
+localstack/localstack,https://github.com/localstack/localstack,{'name': 'Python'},{'totalCount': 1500},{'totalCount': 1263}
+Modernizr/Modernizr,https://github.com/Modernizr/Modernizr,{'name': 'JavaScript'},{'totalCount': 1416},{'totalCount': 1261}
+google/styleguide,https://github.com/google/styleguide,{'name': 'HTML'},{'totalCount': 225},{'totalCount': 77}
+johnpapa/angular-styleguide,https://github.com/johnpapa/angular-styleguide,,{'totalCount': 423},{'totalCount': 361}
+madewithml/lessons,https://github.com/madewithml/lessons,{'name': 'Jupyter Notebook'},{'totalCount': 18},{'totalCount': 18}
+yangshun/front-end-interview-handbook,https://github.com/yangshun/front-end-interview-handbook,{'name': 'JavaScript'},{'totalCount': 0},{'totalCount': 0}
+FiloSottile/mkcert,https://github.com/FiloSottile/mkcert,{'name': 'Go'},{'totalCount': 170},{'totalCount': 133}
+houshanren/hangzhou_house_knowledge,https://github.com/houshanren/hangzhou_house_knowledge,{'name': 'CSS'},{'totalCount': 0},{'totalCount': 0}
+nvie/gitflow,https://github.com/nvie/gitflow,{'name': 'Shell'},{'totalCount': 335},{'totalCount': 114}
+fzaninotto/Faker,https://github.com/fzaninotto/Faker,{'name': 'PHP'},{'totalCount': 541},{'totalCount': 486}
+astaxie/beego,https://github.com/astaxie/beego,{'name': 'Go'},{'totalCount': 2699},{'totalCount': 1909}
+TheAlgorithms/Java,https://github.com/TheAlgorithms/Java,{'name': 'Java'},{'totalCount': 171},{'totalCount': 131}
+ZuzooVn/machine-learning-for-software-engineers,https://github.com/ZuzooVn/machine-learning-for-software-engineers,,{'totalCount': 15},{'totalCount': 3}
+standard/standard,https://github.com/standard/standard,{'name': 'JavaScript'},{'totalCount': 1072},{'totalCount': 964}
+carbon-app/carbon,https://github.com/carbon-app/carbon,{'name': 'JavaScript'},{'totalCount': 424},{'totalCount': 406}
+iina/iina,https://github.com/iina/iina,{'name': 'Swift'},{'totalCount': 2316},{'totalCount': 1457}
+vuejs/vuex,https://github.com/vuejs/vuex,{'name': 'JavaScript'},{'totalCount': 990},{'totalCount': 954}
+ngosang/trackerslist,https://github.com/ngosang/trackerslist,,{'totalCount': 211},{'totalCount': 209}
+rethinkdb/rethinkdb,https://github.com/rethinkdb/rethinkdb,{'name': 'C++'},{'totalCount': 6247},{'totalCount': 4850}
+nolimits4web/swiper,https://github.com/nolimits4web/swiper,{'name': 'JavaScript'},{'totalCount': 3161},{'totalCount': 2989}
+github/fetch,https://github.com/github/fetch,{'name': 'JavaScript'},{'totalCount': 498},{'totalCount': 488}
+Alvin9999/new-pac,https://github.com/Alvin9999/new-pac,,{'totalCount': 875},{'totalCount': 690}
+ziadoz/awesome-php,https://github.com/ziadoz/awesome-php,,{'totalCount': 107},{'totalCount': 105}
+iikira/BaiduPCS-Go,https://github.com/iikira/BaiduPCS-Go,{'name': 'Go'},{'totalCount': 918},{'totalCount': 790}
+Marak/faker.js,https://github.com/Marak/faker.js,{'name': 'JavaScript'},{'totalCount': 426},{'totalCount': 239}
+pingcap/tidb,https://github.com/pingcap/tidb,{'name': 'Go'},{'totalCount': 4461},{'totalCount': 3046}
+netty/netty,https://github.com/netty/netty,{'name': 'Java'},{'totalCount': 5051},{'totalCount': 4682}
+herrbischoff/awesome-macos-command-line,https://github.com/herrbischoff/awesome-macos-command-line,,{'totalCount': 0},{'totalCount': 0}
+jakevdp/PythonDataScienceHandbook,https://github.com/jakevdp/PythonDataScienceHandbook,{'name': 'Jupyter Notebook'},{'totalCount': 114},{'totalCount': 46}
+angular/angular-cli,https://github.com/angular/angular-cli,{'name': 'TypeScript'},{'totalCount': 11680},{'totalCount': 11048}
+dkhamsing/open-source-ios-apps,https://github.com/dkhamsing/open-source-ios-apps,{'name': 'Swift'},{'totalCount': 202},{'totalCount': 201}
+mathiasbynens/dotfiles,https://github.com/mathiasbynens/dotfiles,{'name': 'Shell'},{'totalCount': 354},{'totalCount': 228}
+iview/iview,https://github.com/iview/iview,{'name': 'Vue'},{'totalCount': 5421},{'totalCount': 4432}
+facebookresearch/Detectron,https://github.com/facebookresearch/Detectron,{'name': 'Python'},{'totalCount': 881},{'totalCount': 602}
+symfony/symfony,https://github.com/symfony/symfony,{'name': 'PHP'},{'totalCount': 13975},{'totalCount': 13233}
+jiahaog/nativefier,https://github.com/jiahaog/nativefier,{'name': 'TypeScript'},{'totalCount': 780},{'totalCount': 610}
+composer/composer,https://github.com/composer/composer,{'name': 'PHP'},{'totalCount': 5923},{'totalCount': 5582}
+freeCodeCamp/devdocs,https://github.com/freeCodeCamp/devdocs,{'name': 'Ruby'},{'totalCount': 816},{'totalCount': 718}
+CodeHubApp/CodeHub,https://github.com/CodeHubApp/CodeHub,{'name': 'C#'},{'totalCount': 605},{'totalCount': 387}
+google-research/bert,https://github.com/google-research/bert,{'name': 'Python'},{'totalCount': 922},{'totalCount': 296}
+raywenderlich/swift-algorithm-club,https://github.com/raywenderlich/swift-algorithm-club,{'name': 'Swift'},{'totalCount': 183},{'totalCount': 174}
+fxsjy/jieba,https://github.com/fxsjy/jieba,{'name': 'Python'},{'totalCount': 689},{'totalCount': 186}
+IanLunn/Hover,https://github.com/IanLunn/Hover,{'name': 'CSS'},{'totalCount': 96},{'totalCount': 79}
+danielgindi/Charts,https://github.com/danielgindi/Charts,{'name': 'Swift'},{'totalCount': 3622},{'totalCount': 3121}
+istio/istio,https://github.com/istio/istio,{'name': 'Go'},{'totalCount': 9547},{'totalCount': 8438}
+SDWebImage/SDWebImage,https://github.com/SDWebImage/SDWebImage,{'name': 'Objective-C'},{'totalCount': 1887},{'totalCount': 1873}
+tailwindcss/tailwindcss,https://github.com/tailwindcss/tailwindcss,{'name': 'CSS'},{'totalCount': 810},{'totalCount': 724}
+postcss/postcss,https://github.com/postcss/postcss,{'name': 'JavaScript'},{'totalCount': 644},{'totalCount': 627}
+lerna/lerna,https://github.com/lerna/lerna,{'name': 'JavaScript'},{'totalCount': 1769},{'totalCount': 1395}
+transloadit/uppy,https://github.com/transloadit/uppy,{'name': 'JavaScript'},{'totalCount': 1105},{'totalCount': 1012}
+serhii-londar/open-source-mac-os-apps,https://github.com/serhii-londar/open-source-mac-os-apps,{'name': 'Swift'},{'totalCount': 127},{'totalCount': 113}
+brillout/awesome-react-components,https://github.com/brillout/awesome-react-components,,{'totalCount': 36},{'totalCount': 36}
+greenrobot/EventBus,https://github.com/greenrobot/EventBus,{'name': 'Java'},{'totalCount': 520},{'totalCount': 432}
+GitbookIO/gitbook,https://github.com/GitbookIO/gitbook,{'name': 'JavaScript'},{'totalCount': 0},{'totalCount': 0}
+alacritty/alacritty,https://github.com/alacritty/alacritty,{'name': 'Rust'},{'totalCount': 2482},{'totalCount': 2121}
+lib-pku/libpku,https://github.com/lib-pku/libpku,{'name': 'TeX'},{'totalCount': 32},{'totalCount': 30}
+markedjs/marked,https://github.com/markedjs/marked,{'name': 'JavaScript'},{'totalCount': 982},{'totalCount': 903}
+gitlabhq/gitlabhq,https://github.com/gitlabhq/gitlabhq,{'name': 'Ruby'},{'totalCount': 0},{'totalCount': 0}
+date-fns/date-fns,https://github.com/date-fns/date-fns,{'name': 'JavaScript'},{'totalCount': 901},{'totalCount': 750}
+pi-hole/pi-hole,https://github.com/pi-hole/pi-hole,{'name': 'Shell'},{'totalCount': 1762},{'totalCount': 1635}
+harvesthq/chosen,https://github.com/harvesthq/chosen,{'name': 'HTML'},{'totalCount': 2325},{'totalCount': 2105}
+skylot/jadx,https://github.com/skylot/jadx,{'name': 'Java'},{'totalCount': 674},{'totalCount': 555}
+ityouknow/spring-boot-examples,https://github.com/ityouknow/spring-boot-examples,{'name': 'Java'},{'totalCount': 96},{'totalCount': 94}
+jaredpalmer/formik,https://github.com/jaredpalmer/formik,{'name': 'TypeScript'},{'totalCount': 1603},{'totalCount': 1090}
+cheeriojs/cheerio,https://github.com/cheeriojs/cheerio,{'name': 'JavaScript'},{'totalCount': 936},{'totalCount': 720}
+hashicorp/terraform,https://github.com/hashicorp/terraform,{'name': 'Go'},{'totalCount': 14629},{'totalCount': 13322}
+CSSEGISandData/COVID-19,https://github.com/CSSEGISandData/COVID-19,,{'totalCount': 2048},{'totalCount': 755}
+ReactiveX/rxjs,https://github.com/ReactiveX/rxjs,{'name': 'TypeScript'},{'totalCount': 2551},{'totalCount': 2231}
+sequelize/sequelize,https://github.com/sequelize/sequelize,{'name': 'JavaScript'},{'totalCount': 8560},{'totalCount': 7758}
+webtorrent/webtorrent,https://github.com/webtorrent/webtorrent,{'name': 'JavaScript'},{'totalCount': 1311},{'totalCount': 1161}
+mobxjs/mobx,https://github.com/mobxjs/mobx,{'name': 'JavaScript'},{'totalCount': 1503},{'totalCount': 1487}
+3b1b/manim,https://github.com/3b1b/manim,{'name': 'Python'},{'totalCount': 571},{'totalCount': 373}
+minio/minio,https://github.com/minio/minio,{'name': 'Go'},{'totalCount': 4035},{'totalCount': 3931}
+geekcompany/ResumeSample,https://github.com/geekcompany/ResumeSample,,{'totalCount': 0},{'totalCount': 0}
+VincentGarreau/particles.js,https://github.com/VincentGarreau/particles.js,{'name': 'JavaScript'},{'totalCount': 331},{'totalCount': 71}
+sentsin/layui,https://github.com/sentsin/layui,{'name': 'JavaScript'},{'totalCount': 482},{'totalCount': 75}
+alibaba/p3c,https://github.com/alibaba/p3c,{'name': 'Kotlin'},{'totalCount': 588},{'totalCount': 517}
+ajaxorg/ace,https://github.com/ajaxorg/ace,{'name': 'JavaScript'},{'totalCount': 2491},{'totalCount': 1834}
+amix/vimrc,https://github.com/amix/vimrc,{'name': 'Vim script'},{'totalCount': 404},{'totalCount': 389}
+emberjs/ember.js,https://github.com/emberjs/ember.js,{'name': 'JavaScript'},{'totalCount': 6243},{'totalCount': 5993}
+Homebrew/brew,https://github.com/Homebrew/brew,{'name': 'Ruby'},{'totalCount': 2492},{'totalCount': 2479}
+naptha/tesseract.js,https://github.com/naptha/tesseract.js,{'name': 'JavaScript'},{'totalCount': 354},{'totalCount': 341}
+Polymer/polymer,https://github.com/Polymer/polymer,{'name': 'HTML'},{'totalCount': 3884},{'totalCount': 3638}
+rclone/rclone,https://github.com/rclone/rclone,{'name': 'Go'},{'totalCount': 3210},{'totalCount': 2529}
+balderdashy/sails,https://github.com/balderdashy/sails,{'name': 'JavaScript'},{'totalCount': 6119},{'totalCount': 5767}
+unknwon/the-way-to-go_ZH_CN,https://github.com/unknwon/the-way-to-go_ZH_CN,{'name': 'Go'},{'totalCount': 0},{'totalCount': 0}
+alibaba/fastjson,https://github.com/alibaba/fastjson,{'name': 'Java'},{'totalCount': 2618},{'totalCount': 1335}
+hammerjs/hammer.js,https://github.com/hammerjs/hammer.js,{'name': 'JavaScript'},{'totalCount': 1004},{'totalCount': 753}
+VundleVim/Vundle.vim,https://github.com/VundleVim/Vundle.vim,{'name': 'Vim script'},{'totalCount': 683},{'totalCount': 531}
+elsewhencode/project-guidelines,https://github.com/elsewhencode/project-guidelines,{'name': 'JavaScript'},{'totalCount': 36},{'totalCount': 24}
+0xAX/linux-insides,https://github.com/0xAX/linux-insides,{'name': 'Python'},{'totalCount': 154},{'totalCount': 120}
+tabler/tabler,https://github.com/tabler/tabler,{'name': 'HTML'},{'totalCount': 308},{'totalCount': 258}
+ryanoasis/nerd-fonts,https://github.com/ryanoasis/nerd-fonts,{'name': 'CSS'},{'totalCount': 343},{'totalCount': 224}
+ycm-core/YouCompleteMe,https://github.com/ycm-core/YouCompleteMe,{'name': 'Python'},{'totalCount': 2845},{'totalCount': 2818}
+CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers,https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers,{'name': 'Jupyter Notebook'},{'totalCount': 210},{'totalCount': 82}
+alibaba/druid,https://github.com/alibaba/druid,{'name': 'Java'},{'totalCount': 2757},{'totalCount': 1070}
+kelseyhightower/kubernetes-the-hard-way,https://github.com/kelseyhightower/kubernetes-the-hard-way,,{'totalCount': 294},{'totalCount': 266}
+facebookresearch/fastText,https://github.com/facebookresearch/fastText,{'name': 'HTML'},{'totalCount': 855},{'totalCount': 568}
+terryum/awesome-deep-learning-papers,https://github.com/terryum/awesome-deep-learning-papers,{'name': 'TeX'},{'totalCount': 23},{'totalCount': 11}
+StreisandEffect/streisand,https://github.com/StreisandEffect/streisand,{'name': 'Shell'},{'totalCount': 1092},{'totalCount': 922}
+laravel/framework,https://github.com/laravel/framework,{'name': 'PHP'},{'totalCount': 13598},{'totalCount': 13591}
+drone/drone,https://github.com/drone/drone,{'name': 'Go'},{'totalCount': 1706},{'totalCount': 1676}
+dcloudio/uni-app,https://github.com/dcloudio/uni-app,{'name': 'JavaScript'},{'totalCount': 1508},{'totalCount': 1030}
+alibaba/arthas,https://github.com/alibaba/arthas,{'name': 'Java'},{'totalCount': 869},{'totalCount': 755}
+SheetJS/sheetjs,https://github.com/SheetJS/sheetjs,{'name': 'JavaScript'},{'totalCount': 1689},{'totalCount': 1354}
+rstacruz/nprogress,https://github.com/rstacruz/nprogress,{'name': 'JavaScript'},{'totalCount': 133},{'totalCount': 46}
+tootsuite/mastodon,https://github.com/tootsuite/mastodon,{'name': 'Ruby'},{'totalCount': 5431},{'totalCount': 3898}
+alibaba/flutter-go,https://github.com/alibaba/flutter-go,{'name': 'Dart'},{'totalCount': 323},{'totalCount': 173}
+realpython/python-guide,https://github.com/realpython/python-guide,{'name': 'Batchfile'},{'totalCount': 246},{'totalCount': 151}
+pure-css/pure,https://github.com/pure-css/pure,{'name': 'JavaScript'},{'totalCount': 526},{'totalCount': 526}
+cmderdev/cmder,https://github.com/cmderdev/cmder,{'name': 'C++'},{'totalCount': 1860},{'totalCount': 1852}
+heartcombo/devise,https://github.com/heartcombo/devise,{'name': 'Ruby'},{'totalCount': 3936},{'totalCount': 3884}
+eugenp/tutorials,https://github.com/eugenp/tutorials,{'name': 'Java'},{'totalCount': 373},{'totalCount': 361}
+Automattic/mongoose,https://github.com/Automattic/mongoose,{'name': 'JavaScript'},{'totalCount': 7387},{'totalCount': 7063}
+t4t5/sweetalert,https://github.com/t4t5/sweetalert,{'name': 'TypeScript'},{'totalCount': 657},{'totalCount': 535}
+NationalSecurityAgency/ghidra,https://github.com/NationalSecurityAgency/ghidra,{'name': 'Java'},{'totalCount': 1480},{'totalCount': 831}
+airbnb/lottie-web,https://github.com/airbnb/lottie-web,{'name': 'JavaScript'},{'totalCount': 2018},{'totalCount': 1515}
+fouber/blog,https://github.com/fouber/blog,,{'totalCount': 40},{'totalCount': 29}
+agalwood/Motrix,https://github.com/agalwood/Motrix,{'name': 'JavaScript'},{'totalCount': 533},{'totalCount': 293}
+scwang90/SmartRefreshLayout,https://github.com/scwang90/SmartRefreshLayout,{'name': 'Java'},{'totalCount': 1126},{'totalCount': 1045}
+satwikkansal/wtfpython,https://github.com/satwikkansal/wtfpython,{'name': 'Python'},{'totalCount': 107},{'totalCount': 81}
+ctripcorp/apollo,https://github.com/ctripcorp/apollo,{'name': 'Java'},{'totalCount': 1992},{'totalCount': 1832}
+facebook/flow,https://github.com/facebook/flow,{'name': 'OCaml'},{'totalCount': 6289},{'totalCount': 3872}
+google/leveldb,https://github.com/google/leveldb,{'name': 'C++'},{'totalCount': 573},{'totalCount': 469}
+metabase/metabase,https://github.com/metabase/metabase,{'name': 'Clojure'},{'totalCount': 7113},{'totalCount': 5053}
+openai/gym,https://github.com/openai/gym,{'name': 'Python'},{'totalCount': 1105},{'totalCount': 1010}
+ocornut/imgui,https://github.com/ocornut/imgui,{'name': 'C++'},{'totalCount': 2540},{'totalCount': 2128}
+remy/nodemon,https://github.com/remy/nodemon,{'name': 'JavaScript'},{'totalCount': 1287},{'totalCount': 1276}
+akveo/ngx-admin,https://github.com/akveo/ngx-admin,{'name': 'TypeScript'},{'totalCount': 1540},{'totalCount': 1257}
+rapid7/metasploit-framework,https://github.com/rapid7/metasploit-framework,{'name': 'Ruby'},{'totalCount': 3823},{'totalCount': 3148}
+niklasvh/html2canvas,https://github.com/niklasvh/html2canvas,{'name': 'TypeScript'},{'totalCount': 1882},{'totalCount': 1307}
+redux-saga/redux-saga,https://github.com/redux-saga/redux-saga,{'name': 'JavaScript'},{'totalCount': 1309},{'totalCount': 1157}
+littlecodersh/ItChat,https://github.com/littlecodersh/ItChat,{'name': 'Python'},{'totalCount': 800},{'totalCount': 592}
+gorhill/uBlock,https://github.com/gorhill/uBlock,{'name': 'JavaScript'},{'totalCount': 3449},{'totalCount': 3377}
+microsoft/PowerToys,https://github.com/microsoft/PowerToys,{'name': 'C++'},{'totalCount': 1957},{'totalCount': 1060}
+pypa/pipenv,https://github.com/pypa/pipenv,{'name': 'Python'},{'totalCount': 3017},{'totalCount': 2629}
+sorrycc/awesome-javascript,https://github.com/sorrycc/awesome-javascript,,{'totalCount': 71},{'totalCount': 54}
+Tencent/wepy,https://github.com/Tencent/wepy,{'name': 'JavaScript'},{'totalCount': 2017},{'totalCount': 1713}
+codemirror/CodeMirror,https://github.com/codemirror/CodeMirror,{'name': 'JavaScript'},{'totalCount': 3661},{'totalCount': 3318}
+FezVrasta/bootstrap-material-design,https://github.com/FezVrasta/bootstrap-material-design,{'name': 'CSS'},{'totalCount': 1082},{'totalCount': 1027}
+kriasoft/react-starter-kit,https://github.com/kriasoft/react-starter-kit,{'name': 'JavaScript'},{'totalCount': 1146},{'totalCount': 708}
+ggreer/the_silver_searcher,https://github.com/ggreer/the_silver_searcher,{'name': 'C'},{'totalCount': 739},{'totalCount': 388}
+vim/vim,https://github.com/vim/vim,{'name': 'Vim script'},{'totalCount': 3613},{'totalCount': 2682}
+SortableJS/Sortable,https://github.com/SortableJS/Sortable,{'name': 'JavaScript'},{'totalCount': 1392},{'totalCount': 1167}
+fighting41love/funNLP,https://github.com/fighting41love/funNLP,{'name': 'Python'},{'totalCount': 26},{'totalCount': 25}
+dimsemenov/PhotoSwipe,https://github.com/dimsemenov/PhotoSwipe,{'name': 'JavaScript'},{'totalCount': 1515},{'totalCount': 1016}
+JedWatson/react-select,https://github.com/JedWatson/react-select,{'name': 'JavaScript'},{'totalCount': 2672},{'totalCount': 1472}
+syl20bnr/spacemacs,https://github.com/syl20bnr/spacemacs,{'name': 'Emacs Lisp'},{'totalCount': 7331},{'totalCount': 4999}
+cypress-io/cypress,https://github.com/cypress-io/cypress,{'name': 'JavaScript'},{'totalCount': 5356},{'totalCount': 4168}
+ovity/octotree,https://github.com/ovity/octotree,{'name': 'JavaScript'},{'totalCount': 570},{'totalCount': 513}
+microsoft/monaco-editor,https://github.com/microsoft/monaco-editor,{'name': 'JavaScript'},{'totalCount': 1782},{'totalCount': 1426}
+wagoodman/dive,https://github.com/wagoodman/dive,{'name': 'Go'},{'totalCount': 187},{'totalCount': 134}
+CymChad/BaseRecyclerViewAdapterHelper,https://github.com/CymChad/BaseRecyclerViewAdapterHelper,{'name': 'Java'},{'totalCount': 2904},{'totalCount': 2768}
+aria2/aria2,https://github.com/aria2/aria2,{'name': 'C++'},{'totalCount': 1337},{'totalCount': 647}
+mbeaudru/modern-js-cheatsheet,https://github.com/mbeaudru/modern-js-cheatsheet,,{'totalCount': 42},{'totalCount': 36}
+facebookarchive/pop,https://github.com/facebookarchive/pop,{'name': 'Objective-C++'},{'totalCount': 255},{'totalCount': 211}
+hashicorp/vagrant,https://github.com/hashicorp/vagrant,{'name': 'Ruby'},{'totalCount': 8393},{'totalCount': 7982}
+ReactiveCocoa/ReactiveCocoa,https://github.com/ReactiveCocoa/ReactiveCocoa,{'name': 'Swift'},{'totalCount': 1988},{'totalCount': 1945}
+koalaman/shellcheck,https://github.com/koalaman/shellcheck,{'name': 'Haskell'},{'totalCount': 1661},{'totalCount': 1121}
+bevacqua/dragula,https://github.com/bevacqua/dragula,{'name': 'JavaScript'},{'totalCount': 467},{'totalCount': 289}
+google/iosched,https://github.com/google/iosched,{'name': 'Kotlin'},{'totalCount': 199},{'totalCount': 170}
+angular/components,https://github.com/angular/components,{'name': 'TypeScript'},{'totalCount': 10850},{'totalCount': 8732}
+Reactive-Extensions/RxJS,https://github.com/Reactive-Extensions/RxJS,{'name': 'JavaScript'},{'totalCount': 874},{'totalCount': 643}
+donnemartin/interactive-coding-challenges,https://github.com/donnemartin/interactive-coding-challenges,{'name': 'Python'},{'totalCount': 52},{'totalCount': 29}
+microsoft/calculator,https://github.com/microsoft/calculator,{'name': 'C++'},{'totalCount': 572},{'totalCount': 416}
+GoogleChrome/lighthouse,https://github.com/GoogleChrome/lighthouse,{'name': 'JavaScript'},{'totalCount': 6756},{'totalCount': 6344}
+kahun/awesome-sysadmin,https://github.com/kahun/awesome-sysadmin,,{'totalCount': 92},{'totalCount': 21}
+Meituan-Dianping/mpvue,https://github.com/Meituan-Dianping/mpvue,{'name': 'JavaScript'},{'totalCount': 1658},{'totalCount': 1256}
+ageron/handson-ml,https://github.com/ageron/handson-ml,{'name': 'Jupyter Notebook'},{'totalCount': 482},{'totalCount': 388}
+railsware/upterm,https://github.com/railsware/upterm,{'name': 'TypeScript'},{'totalCount': 753},{'totalCount': 534}
+LisaDziuba/Awesome-Design-Tools,https://github.com/LisaDziuba/Awesome-Design-Tools,{'name': 'JavaScript'},{'totalCount': 24},{'totalCount': 21}
+go-gitea/gitea,https://github.com/go-gitea/gitea,{'name': 'Go'},{'totalCount': 5361},{'totalCount': 4087}
+sindresorhus/awesome-electron,https://github.com/sindresorhus/awesome-electron,,{'totalCount': 44},{'totalCount': 35}
+Netflix/Hystrix,https://github.com/Netflix/Hystrix,{'name': 'Java'},{'totalCount': 997},{'totalCount': 671}
+github/hub,https://github.com/github/hub,{'name': 'Go'},{'totalCount': 1689},{'totalCount': 1491}
+SwiftyJSON/SwiftyJSON,https://github.com/SwiftyJSON/SwiftyJSON,{'name': 'Swift'},{'totalCount': 646},{'totalCount': 558}
+sharkdp/bat,https://github.com/sharkdp/bat,{'name': 'Rust'},{'totalCount': 552},{'totalCount': 527}
+BurntSushi/ripgrep,https://github.com/BurntSushi/ripgrep,{'name': 'Rust'},{'totalCount': 1063},{'totalCount': 1011}
+docker/compose,https://github.com/docker/compose,{'name': 'Python'},{'totalCount': 4874},{'totalCount': 4553}
+airbnb/lottie-ios,https://github.com/airbnb/lottie-ios,{'name': 'Swift'},{'totalCount': 805},{'totalCount': 676}
+reduxjs/react-redux,https://github.com/reduxjs/react-redux,{'name': 'JavaScript'},{'totalCount': 1038},{'totalCount': 1016}
+FFmpeg/FFmpeg,https://github.com/FFmpeg/FFmpeg,{'name': 'C'},{'totalCount': 0},{'totalCount': 0}
+SwiftGGTeam/the-swift-programming-language-in-chinese,https://github.com/SwiftGGTeam/the-swift-programming-language-in-chinese,{'name': 'CSS'},{'totalCount': 320},{'totalCount': 320}
+byoungd/English-level-up-tips-for-Chinese,https://github.com/byoungd/English-level-up-tips-for-Chinese,,{'totalCount': 54},{'totalCount': 43}
+alebcay/awesome-shell,https://github.com/alebcay/awesome-shell,,{'totalCount': 37},{'totalCount': 16}
+mochajs/mocha,https://github.com/mochajs/mocha,{'name': 'JavaScript'},{'totalCount': 2497},{'totalCount': 2246}
+BradLarson/GPUImage,https://github.com/BradLarson/GPUImage,{'name': 'Objective-C'},{'totalCount': 2199},{'totalCount': 1300}
+guzzle/guzzle,https://github.com/guzzle/guzzle,{'name': 'PHP'},{'totalCount': 1582},{'totalCount': 1354}
+hankcs/HanLP,https://github.com/hankcs/HanLP,{'name': 'Python'},{'totalCount': 1366},{'totalCount': 1359}
+usablica/intro.js,https://github.com/usablica/intro.js,{'name': 'HTML'},{'totalCount': 585},{'totalCount': 370}
+pyenv/pyenv,https://github.com/pyenv/pyenv,{'name': 'Shell'},{'totalCount': 1085},{'totalCount': 902}
+markerikson/react-redux-links,https://github.com/markerikson/react-redux-links,,{'totalCount': 32},{'totalCount': 21}
+pugjs/pug,https://github.com/pugjs/pug,{'name': 'JavaScript'},{'totalCount': 2417},{'totalCount': 2200}
+powerline/fonts,https://github.com/powerline/fonts,{'name': 'Shell'},{'totalCount': 223},{'totalCount': 81}
+atlassian/react-beautiful-dnd,https://github.com/atlassian/react-beautiful-dnd,{'name': 'JavaScript'},{'totalCount': 1037},{'totalCount': 845}
+matteocrippa/awesome-swift,https://github.com/matteocrippa/awesome-swift,{'name': 'Swift'},{'totalCount': 110},{'totalCount': 110}
+obsproject/obs-studio,https://github.com/obsproject/obs-studio,{'name': 'C'},{'totalCount': 442},{'totalCount': 344}
+MunGell/awesome-for-beginners,https://github.com/MunGell/awesome-for-beginners,,{'totalCount': 57},{'totalCount': 55}
+petkaantonov/bluebird,https://github.com/petkaantonov/bluebird,{'name': 'JavaScript'},{'totalCount': 1113},{'totalCount': 1057}
+dokku/dokku,https://github.com/dokku/dokku,{'name': 'Shell'},{'totalCount': 2004},{'totalCount': 1967}
+tornadoweb/tornado,https://github.com/tornadoweb/tornado,{'name': 'Python'},{'totalCount': 1562},{'totalCount': 1398}
+tipsy/profile-summary-for-github,https://github.com/tipsy/profile-summary-for-github,{'name': 'Vue'},{'totalCount': 65},{'totalCount': 54}
+hashicorp/consul,https://github.com/hashicorp/consul,{'name': 'Go'},{'totalCount': 3721},{'totalCount': 3144}
+ColorlibHQ/gentelella,https://github.com/ColorlibHQ/gentelella,{'name': 'HTML'},{'totalCount': 617},{'totalCount': 604}
+julycoding/The-Art-Of-Programming-By-July,https://github.com/julycoding/The-Art-Of-Programming-By-July,{'name': 'C'},{'totalCount': 127},{'totalCount': 82}
+nefe/You-Dont-Need-jQuery,https://github.com/nefe/You-Dont-Need-jQuery,{'name': 'JavaScript'},{'totalCount': 64},{'totalCount': 57}
+liyasthomas/postwoman,https://github.com/liyasthomas/postwoman,{'name': 'Vue'},{'totalCount': 294},{'totalCount': 281}
+PowerShell/PowerShell,https://github.com/PowerShell/PowerShell,{'name': 'C#'},{'totalCount': 7415},{'totalCount': 4994}
+MrRio/jsPDF,https://github.com/MrRio/jsPDF,{'name': 'JavaScript'},{'totalCount': 1691},{'totalCount': 1489}
+jgm/pandoc,https://github.com/jgm/pandoc,{'name': 'Haskell'},{'totalCount': 4995},{'totalCount': 4436}
+emscripten-core/emscripten,https://github.com/emscripten-core/emscripten,{'name': 'C++'},{'totalCount': 5243},{'totalCount': 4624}
+FallibleInc/security-guide-for-developers,https://github.com/FallibleInc/security-guide-for-developers,,{'totalCount': 11},{'totalCount': 4}
+jobbole/awesome-python-cn,https://github.com/jobbole/awesome-python-cn,{'name': 'Makefile'},{'totalCount': 14},{'totalCount': 9}
+dmlc/xgboost,https://github.com/dmlc/xgboost,{'name': 'C++'},{'totalCount': 3403},{'totalCount': 3184}
+ReactiveX/RxAndroid,https://github.com/ReactiveX/RxAndroid,{'name': 'Java'},{'totalCount': 336},{'totalCount': 336}
+florinpop17/app-ideas,https://github.com/florinpop17/app-ideas,,{'totalCount': 18},{'totalCount': 7}
+typeorm/typeorm,https://github.com/typeorm/typeorm,{'name': 'TypeScript'},{'totalCount': 4700},{'totalCount': 3041}
+googlehosts/hosts,https://github.com/googlehosts/hosts,,{'totalCount': 378},{'totalCount': 334}
+bvaughn/react-virtualized,https://github.com/bvaughn/react-virtualized,{'name': 'JavaScript'},{'totalCount': 957},{'totalCount': 684}
+paularmstrong/normalizr,https://github.com/paularmstrong/normalizr,{'name': 'JavaScript'},{'totalCount': 279},{'totalCount': 264}
+kon9chunkit/GitHub-Chinese-Top-Charts,https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts,{'name': 'Python'},{'totalCount': 90},{'totalCount': 28}
+futurice/android-best-practices,https://github.com/futurice/android-best-practices,,{'totalCount': 83},{'totalCount': 61}
+typicode/husky,https://github.com/typicode/husky,{'name': 'JavaScript'},{'totalCount': 496},{'totalCount': 369}
+junegunn/vim-plug,https://github.com/junegunn/vim-plug,{'name': 'Vim script'},{'totalCount': 746},{'totalCount': 705}
+influxdata/influxdb,https://github.com/influxdata/influxdb,{'name': 'Go'},{'totalCount': 9816},{'totalCount': 9053}
+ramda/ramda,https://github.com/ramda/ramda,{'name': 'JavaScript'},{'totalCount': 1436},{'totalCount': 1252}
+SamyPesse/How-to-Make-a-Computer-Operating-System,https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System,{'name': 'C'},{'totalCount': 63},{'totalCount': 25}
+formulahendry/955.WLB,https://github.com/formulahendry/955.WLB,,{'totalCount': 182},{'totalCount': 59}
+enzymejs/enzyme,https://github.com/enzymejs/enzyme,{'name': 'JavaScript'},{'totalCount': 1622},{'totalCount': 1404}
+mitmproxy/mitmproxy,https://github.com/mitmproxy/mitmproxy,{'name': 'Python'},{'totalCount': 2192},{'totalCount': 1936}
+jlmakes/scrollreveal,https://github.com/jlmakes/scrollreveal,{'name': 'JavaScript'},{'totalCount': 453},{'totalCount': 444}
+domnikl/DesignPatternsPHP,https://github.com/domnikl/DesignPatternsPHP,{'name': 'PHP'},{'totalCount': 93},{'totalCount': 90}
+chubin/cheat.sh,https://github.com/chubin/cheat.sh,{'name': 'Python'},{'totalCount': 115},{'totalCount': 56}
+apache/incubator-mxnet,https://github.com/apache/incubator-mxnet,{'name': 'C++'},{'totalCount': 8883},{'totalCount': 7195}
+vapor/vapor,https://github.com/vapor/vapor,{'name': 'Swift'},{'totalCount': 1249},{'totalCount': 1208}
+google/web-starter-kit,https://github.com/google/web-starter-kit,{'name': 'HTML'},{'totalCount': 580},{'totalCount': 533}
+react-native-elements/react-native-elements,https://github.com/react-native-elements/react-native-elements,{'name': 'JavaScript'},{'totalCount': 1416},{'totalCount': 1334}
+inconshreveable/ngrok,https://github.com/inconshreveable/ngrok,{'name': 'Go'},{'totalCount': 592},{'totalCount': 371}
+doczjs/docz,https://github.com/doczjs/docz,{'name': 'TypeScript'},{'totalCount': 1056},{'totalCount': 984}
+NativeScript/NativeScript,https://github.com/NativeScript/NativeScript,{'name': 'TypeScript'},{'totalCount': 5625},{'totalCount': 4996}
+donnemartin/data-science-ipython-notebooks,https://github.com/donnemartin/data-science-ipython-notebooks,{'name': 'Python'},{'totalCount': 27},{'totalCount': 19}
+Prinzhorn/skrollr,https://github.com/Prinzhorn/skrollr,{'name': 'HTML'},{'totalCount': 776},{'totalCount': 533}
+Advanced-Frontend/Daily-Interview-Question,https://github.com/Advanced-Frontend/Daily-Interview-Question,{'name': 'JavaScript'},{'totalCount': 348},{'totalCount': 196}
+postcss/autoprefixer,https://github.com/postcss/autoprefixer,{'name': 'JavaScript'},{'totalCount': 1017},{'totalCount': 996}
+ReactiveX/RxSwift,https://github.com/ReactiveX/RxSwift,{'name': 'Swift'},{'totalCount': 1051},{'totalCount': 1021}
+verekia/js-stack-from-scratch,https://github.com/verekia/js-stack-from-scratch,{'name': 'JavaScript'},{'totalCount': 156},{'totalCount': 118}
+nlohmann/json,https://github.com/nlohmann/json,{'name': 'C++'},{'totalCount': 1609},{'totalCount': 1576}
+HeroTransitions/Hero,https://github.com/HeroTransitions/Hero,{'name': 'Swift'},{'totalCount': 541},{'totalCount': 372}
+segmentio/nightmare,https://github.com/segmentio/nightmare,{'name': 'JavaScript'},{'totalCount': 1205},{'totalCount': 1056}
+chenglou/react-motion,https://github.com/chenglou/react-motion,{'name': 'JavaScript'},{'totalCount': 386},{'totalCount': 241}
+lydiahallie/javascript-questions,https://github.com/lydiahallie/javascript-questions,,{'totalCount': 107},{'totalCount': 79}
+mqyqingfeng/Blog,https://github.com/mqyqingfeng/Blog,,{'totalCount': 166},{'totalCount': 78}
+wsargent/docker-cheat-sheet,https://github.com/wsargent/docker-cheat-sheet,,{'totalCount': 26},{'totalCount': 22}
+jinzhu/gorm,https://github.com/jinzhu/gorm,{'name': 'Go'},{'totalCount': 2416},{'totalCount': 1778}
+lukasz-madon/awesome-remote-job,https://github.com/lukasz-madon/awesome-remote-job,,{'totalCount': 36},{'totalCount': 34}
+trailofbits/algo,https://github.com/trailofbits/algo,{'name': 'Python'},{'totalCount': 1259},{'totalCount': 1192}
+cockroachdb/cockroach,https://github.com/cockroachdb/cockroach,{'name': 'Go'},{'totalCount': 24517},{'totalCount': 21538}
+kubernetes/minikube,https://github.com/kubernetes/minikube,{'name': 'Go'},{'totalCount': 4283},{'totalCount': 3859}
+mattermost/mattermost-server,https://github.com/mattermost/mattermost-server,{'name': 'Go'},{'totalCount': 4627},{'totalCount': 4249}
+nagadomi/waifu2x,https://github.com/nagadomi/waifu2x,{'name': 'Lua'},{'totalCount': 263},{'totalCount': 160}
+rollup/rollup,https://github.com/rollup/rollup,{'name': 'JavaScript'},{'totalCount': 2247},{'totalCount': 2063}
+kataras/iris,https://github.com/kataras/iris,{'name': 'Go'},{'totalCount': 537},{'totalCount': 522}
+ruanyf/es6tutorial,https://github.com/ruanyf/es6tutorial,{'name': 'JavaScript'},{'totalCount': 467},{'totalCount': 467}
+react-navigation/react-navigation,https://github.com/react-navigation/react-navigation,{'name': 'TypeScript'},{'totalCount': 6852},{'totalCount': 6708}
+ftlabs/fastclick,https://github.com/ftlabs/fastclick,{'name': 'HTML'},{'totalCount': 389},{'totalCount': 179}
+bcit-ci/CodeIgniter,https://github.com/bcit-ci/CodeIgniter,{'name': 'PHP'},{'totalCount': 3108},{'totalCount': 3051}
+feathericons/feather,https://github.com/feathericons/feather,{'name': 'JavaScript'},{'totalCount': 457},{'totalCount': 192}
+MostlyAdequate/mostly-adequate-guide,https://github.com/MostlyAdequate/mostly-adequate-guide,{'name': 'JavaScript'},{'totalCount': 224},{'totalCount': 183}
+facebook/draft-js,https://github.com/facebook/draft-js,{'name': 'JavaScript'},{'totalCount': 1491},{'totalCount': 894}
+dotnet/corefx,https://github.com/dotnet/corefx,,{'totalCount': 0},{'totalCount': 0}
+avajs/ava,https://github.com/avajs/ava,{'name': 'JavaScript'},{'totalCount': 1347},{'totalCount': 1195}
+mongodb/mongo,https://github.com/mongodb/mongo,{'name': 'C++'},{'totalCount': 0},{'totalCount': 0}
+fastai/fastai,https://github.com/fastai/fastai,{'name': 'Jupyter Notebook'},{'totalCount': 1031},{'totalCount': 1030}
+tj/commander.js,https://github.com/tj/commander.js,{'name': 'JavaScript'},{'totalCount': 669},{'totalCount': 654}
+google/gson,https://github.com/google/gson,{'name': 'Java'},{'totalCount': 1261},{'totalCount': 849}
+veggiemonk/awesome-docker,https://github.com/veggiemonk/awesome-docker,,{'totalCount': 98},{'totalCount': 98}
+SnapKit/Masonry,https://github.com/SnapKit/Masonry,{'name': 'Objective-C'},{'totalCount': 436},{'totalCount': 327}
+bilibili/flv.js,https://github.com/bilibili/flv.js,{'name': 'JavaScript'},{'totalCount': 517},{'totalCount': 260}
+balena-io/etcher,https://github.com/balena-io/etcher,{'name': 'TypeScript'},{'totalCount': 1400},{'totalCount': 1176}
+Popmotion/popmotion,https://github.com/Popmotion/popmotion,{'name': 'JavaScript'},{'totalCount': 543},{'totalCount': 533}
+cfenollosa/os-tutorial,https://github.com/cfenollosa/os-tutorial,{'name': 'C'},{'totalCount': 79},{'totalCount': 50}
+ipfs/ipfs,https://github.com/ipfs/ipfs,,{'totalCount': 202},{'totalCount': 202}
+afollestad/material-dialogs,https://github.com/afollestad/material-dialogs,{'name': 'Kotlin'},{'totalCount': 1177},{'totalCount': 1140}
+nsqio/nsq,https://github.com/nsqio/nsq,{'name': 'Go'},{'totalCount': 517},{'totalCount': 471}
+xi-editor/xi-editor,https://github.com/xi-editor/xi-editor,{'name': 'Rust'},{'totalCount': 504},{'totalCount': 382}
+SeleniumHQ/selenium,https://github.com/SeleniumHQ/selenium,{'name': 'Java'},{'totalCount': 6432},{'totalCount': 6041}
+swagger-api/swagger-ui,https://github.com/swagger-api/swagger-ui,{'name': 'JavaScript'},{'totalCount': 4036},{'totalCount': 3548}
+tmux/tmux,https://github.com/tmux/tmux,{'name': 'C'},{'totalCount': 1856},{'totalCount': 1852}
+JohnCoates/Aerial,https://github.com/JohnCoates/Aerial,{'name': 'Swift'},{'totalCount': 713},{'totalCount': 686}
+alibaba/weex,https://github.com/alibaba/weex,,{'totalCount': 1845},{'totalCount': 1310}
+react-bootstrap/react-bootstrap,https://github.com/react-bootstrap/react-bootstrap,{'name': 'JavaScript'},{'totalCount': 2667},{'totalCount': 2578}
+OAI/OpenAPI-Specification,https://github.com/OAI/OpenAPI-Specification,,{'totalCount': 1438},{'totalCount': 1012}
+openfaas/faas,https://github.com/openfaas/faas,{'name': 'Go'},{'totalCount': 679},{'totalCount': 616}
+jcjohnson/neural-style,https://github.com/jcjohnson/neural-style,{'name': 'Lua'},{'totalCount': 435},{'totalCount': 141}
+QSCTech/zju-icicles,https://github.com/QSCTech/zju-icicles,{'name': 'C'},{'totalCount': 31},{'totalCount': 26}
+pjreddie/darknet,https://github.com/pjreddie/darknet,{'name': 'C'},{'totalCount': 1911},{'totalCount': 453}
+dhg/Skeleton,https://github.com/dhg/Skeleton,{'name': 'CSS'},{'totalCount': 193},{'totalCount': 122}
+ianstormtaylor/slate,https://github.com/ianstormtaylor/slate,{'name': 'JavaScript'},{'totalCount': 2201},{'totalCount': 2026}
+ruanyf/jstraining,https://github.com/ruanyf/jstraining,,{'totalCount': 41},{'totalCount': 41}
+square/picasso,https://github.com/square/picasso,{'name': 'Java'},{'totalCount': 1498},{'totalCount': 1317}
+parse-community/parse-server,https://github.com/parse-community/parse-server,{'name': 'JavaScript'},{'totalCount': 3646},{'totalCount': 3553}
+acmesh-official/acme.sh,https://github.com/acmesh-official/acme.sh,{'name': 'Shell'},{'totalCount': 1686},{'totalCount': 1187}
+odoo/odoo,https://github.com/odoo/odoo,{'name': 'JavaScript'},{'totalCount': 12296},{'totalCount': 11028}
+Seldaek/monolog,https://github.com/Seldaek/monolog,{'name': 'PHP'},{'totalCount': 617},{'totalCount': 565}
+jaredhanson/passport,https://github.com/jaredhanson/passport,{'name': 'JavaScript'},{'totalCount': 640},{'totalCount': 323}
+jorgebucaran/hyperapp,https://github.com/jorgebucaran/hyperapp,{'name': 'JavaScript'},{'totalCount': 515},{'totalCount': 501}
+keon/algorithms,https://github.com/keon/algorithms,{'name': 'Python'},{'totalCount': 113},{'totalCount': 77}
+dotnet/aspnetcore,https://github.com/dotnet/aspnetcore,{'name': 'C#'},{'totalCount': 15434},{'totalCount': 13137}
+encode/django-rest-framework,https://github.com/encode/django-rest-framework,{'name': 'Python'},{'totalCount': 3422},{'totalCount': 3265}
+pcottle/learnGitBranching,https://github.com/pcottle/learnGitBranching,{'name': 'JavaScript'},{'totalCount': 315},{'totalCount': 281}
+npm/npm,https://github.com/npm/npm,,{'totalCount': 18672},{'totalCount': 16505}
+geekcomputers/Python,https://github.com/geekcomputers/Python,{'name': 'Python'},{'totalCount': 117},{'totalCount': 53}
+labstack/echo,https://github.com/labstack/echo,{'name': 'Go'},{'totalCount': 994},{'totalCount': 964}
+davideuler/architecture.of.internet-product,https://github.com/davideuler/architecture.of.internet-product,,{'totalCount': 10},{'totalCount': 3}
+komeiji-satori/Dress,https://github.com/komeiji-satori/Dress,{'name': 'Standard ML'},{'totalCount': 301},{'totalCount': 224}
+vuejs/vue-devtools,https://github.com/vuejs/vue-devtools,{'name': 'JavaScript'},{'totalCount': 877},{'totalCount': 663}
+viatsko/awesome-vscode,https://github.com/viatsko/awesome-vscode,{'name': 'JavaScript'},{'totalCount': 32},{'totalCount': 19}
+sqlmapproject/sqlmap,https://github.com/sqlmapproject/sqlmap,{'name': 'Python'},{'totalCount': 3869},{'totalCount': 3821}
+CorentinJ/Real-Time-Voice-Cloning,https://github.com/CorentinJ/Real-Time-Voice-Cloning,{'name': 'Python'},{'totalCount': 291},{'totalCount': 148}
+d2l-ai/d2l-zh,https://github.com/d2l-ai/d2l-zh,{'name': 'Python'},{'totalCount': 0},{'totalCount': 0}
+curl/curl,https://github.com/curl/curl,{'name': 'C'},{'totalCount': 2228},{'totalCount': 2194}
+felixrieseberg/windows95,https://github.com/felixrieseberg/windows95,{'name': 'TypeScript'},{'totalCount': 140},{'totalCount': 86}
+localForage/localForage,https://github.com/localForage/localForage,{'name': 'JavaScript'},{'totalCount': 607},{'totalCount': 455}
+denysdovhan/wtfjs,https://github.com/denysdovhan/wtfjs,{'name': 'JavaScript'},{'totalCount': 65},{'totalCount': 29}
+helm/helm,https://github.com/helm/helm,{'name': 'Go'},{'totalCount': 4501},{'totalCount': 3752}
+prisma/prisma1,https://github.com/prisma/prisma1,{'name': 'Scala'},{'totalCount': 3390},{'totalCount': 2874}
+kelthuzadx/hosts,https://github.com/kelthuzadx/hosts,{'name': 'Rascal'},{'totalCount': 891},{'totalCount': 888}
+airyland/vux,https://github.com/airyland/vux,{'name': 'Vue'},{'totalCount': 3217},{'totalCount': 2462}
+Homebrew/homebrew-cask,https://github.com/Homebrew/homebrew-cask,{'name': 'Ruby'},{'totalCount': 5373},{'totalCount': 5334}
+jamiebuilds/the-super-tiny-compiler,https://github.com/jamiebuilds/the-super-tiny-compiler,{'name': 'JavaScript'},{'totalCount': 0},{'totalCount': 0}
+TeamStuQ/skill-map,https://github.com/TeamStuQ/skill-map,{'name': 'HTML'},{'totalCount': 79},{'totalCount': 13}
+BoostIO/Boostnote,https://github.com/BoostIO/Boostnote,{'name': 'JavaScript'},{'totalCount': 2246},{'totalCount': 1814}
+android/architecture-components-samples,https://github.com/android/architecture-components-samples,{'name': 'Kotlin'},{'totalCount': 554},{'totalCount': 453}
+tobiasahlin/SpinKit,https://github.com/tobiasahlin/SpinKit,{'name': 'CSS'},{'totalCount': 55},{'totalCount': 52}
+stedolan/jq,https://github.com/stedolan/jq,{'name': 'C'},{'totalCount': 1649},{'totalCount': 1161}
+libgdx/libgdx,https://github.com/libgdx/libgdx,{'name': 'Java'},{'totalCount': 3124},{'totalCount': 2848}
+react-spring/react-spring,https://github.com/react-spring/react-spring,{'name': 'JavaScript'},{'totalCount': 708},{'totalCount': 615}
+sampotts/plyr,https://github.com/sampotts/plyr,{'name': 'JavaScript'},{'totalCount': 1406},{'totalCount': 1003}
+CMU-Perceptual-Computing-Lab/openpose,https://github.com/CMU-Perceptual-Computing-Lab/openpose,{'name': 'C++'},{'totalCount': 1336},{'totalCount': 1306}
+Wox-launcher/Wox,https://github.com/Wox-launcher/Wox,{'name': 'C#'},{'totalCount': 2552},{'totalCount': 1634}
+kilimchoi/engineering-blogs,https://github.com/kilimchoi/engineering-blogs,{'name': 'Ruby'},{'totalCount': 76},{'totalCount': 75}
+elixir-lang/elixir,https://github.com/elixir-lang/elixir,{'name': 'Elixir'},{'totalCount': 4055},{'totalCount': 4039}
+go-kit/kit,https://github.com/go-kit/kit,{'name': 'Go'},{'totalCount': 450},{'totalCount': 397}
+vlang/v,https://github.com/vlang/v,{'name': 'V'},{'totalCount': 2179},{'totalCount': 1641}
+nikitavoloboev/my-mac-os,https://github.com/nikitavoloboev/my-mac-os,{'name': 'CSS'},{'totalCount': 70},{'totalCount': 68}
+google/python-fire,https://github.com/google/python-fire,{'name': 'Python'},{'totalCount': 165},{'totalCount': 112}
+spf13/cobra,https://github.com/spf13/cobra,{'name': 'Go'},{'totalCount': 564},{'totalCount': 396}
+ruby/ruby,https://github.com/ruby/ruby,{'name': 'Ruby'},{'totalCount': 0},{'totalCount': 0}
+microsoft/CNTK,https://github.com/microsoft/CNTK,{'name': 'C++'},{'totalCount': 3241},{'totalCount': 2504}
+yeasy/docker_practice,https://github.com/yeasy/docker_practice,{'name': 'Go'},{'totalCount': 175},{'totalCount': 171}
+bannedbook/fanqiang,https://github.com/bannedbook/fanqiang,{'name': 'C'},{'totalCount': 475},{'totalCount': 295}
+osquery/osquery,https://github.com/osquery/osquery,{'name': 'C++'},{'totalCount': 2447},{'totalCount': 1829}
+nostra13/Android-Universal-Image-Loader,https://github.com/nostra13/Android-Universal-Image-Loader,{'name': 'Java'},{'totalCount': 1205},{'totalCount': 770}
+facebook/flux,https://github.com/facebook/flux,{'name': 'JavaScript'},{'totalCount': 228},{'totalCount': 216}
+chrisbanes/PhotoView,https://github.com/chrisbanes/PhotoView,{'name': 'Java'},{'totalCount': 615},{'totalCount': 468}
+facebook/docusaurus,https://github.com/facebook/docusaurus,{'name': 'JavaScript'},{'totalCount': 883},{'totalCount': 779}
+defunkt/jquery-pjax,https://github.com/defunkt/jquery-pjax,{'name': 'JavaScript'},{'totalCount': 441},{'totalCount': 386}
+reduxjs/reselect,https://github.com/reduxjs/reselect,{'name': 'JavaScript'},{'totalCount': 297},{'totalCount': 234}
+matterport/Mask_RCNN,https://github.com/matterport/Mask_RCNN,{'name': 'Python'},{'totalCount': 1951},{'totalCount': 631}
+apache/airflow,https://github.com/apache/airflow,{'name': 'Python'},{'totalCount': 1095},{'totalCount': 808}
+jgraph/drawio,https://github.com/jgraph/drawio,{'name': 'JavaScript'},{'totalCount': 798},{'totalCount': 551}
+angular/material,https://github.com/angular/material,{'name': 'JavaScript'},{'totalCount': 8925},{'totalCount': 8502}
+julianshapiro/velocity,https://github.com/julianshapiro/velocity,{'name': 'JavaScript'},{'totalCount': 801},{'totalCount': 763}
+facebook/rocksdb,https://github.com/facebook/rocksdb,{'name': 'C++'},{'totalCount': 1925},{'totalCount': 1582}
+hasura/graphql-engine,https://github.com/hasura/graphql-engine,{'name': 'JavaScript'},{'totalCount': 2465},{'totalCount': 1644}
+facebook/hhvm,https://github.com/facebook/hhvm,{'name': 'C++'},{'totalCount': 5717},{'totalCount': 4879}
+yunjey/pytorch-tutorial,https://github.com/yunjey/pytorch-tutorial,{'name': 'Python'},{'totalCount': 154},{'totalCount': 109}
+git-tips/tips,https://github.com/git-tips/tips,{'name': 'JavaScript'},{'totalCount': 27},{'totalCount': 15}
+necolas/react-native-web,https://github.com/necolas/react-native-web,{'name': 'JavaScript'},{'totalCount': 1180},{'totalCount': 1095}
+benweet/stackedit,https://github.com/benweet/stackedit,{'name': 'JavaScript'},{'totalCount': 1502},{'totalCount': 962}
+lovell/sharp,https://github.com/lovell/sharp,{'name': 'JavaScript'},{'totalCount': 1952},{'totalCount': 1867}
+SnapKit/SnapKit,https://github.com/SnapKit/SnapKit,{'name': 'Swift'},{'totalCount': 482},{'totalCount': 417}
+fengdu78/Coursera-ML-AndrewNg-Notes,https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes,{'name': 'HTML'},{'totalCount': 44},{'totalCount': 10}
+highlightjs/highlight.js,https://github.com/highlightjs/highlight.js,{'name': 'JavaScript'},{'totalCount': 1326},{'totalCount': 1284}
+InterviewMap/CS-Interview-Knowledge-Map,https://github.com/InterviewMap/CS-Interview-Knowledge-Map,,{'totalCount': 101},{'totalCount': 74}
+immerjs/immer,https://github.com/immerjs/immer,{'name': 'JavaScript'},{'totalCount': 366},{'totalCount': 344}
+explosion/spaCy,https://github.com/explosion/spaCy,{'name': 'Python'},{'totalCount': 3928},{'totalCount': 3733}
+less/less.js,https://github.com/less/less.js,{'name': 'JavaScript'},{'totalCount': 2644},{'totalCount': 2498}
+eslint/eslint,https://github.com/eslint/eslint,{'name': 'JavaScript'},{'totalCount': 7831},{'totalCount': 7696}
+rwaldron/idiomatic.js,https://github.com/rwaldron/idiomatic.js,,{'totalCount': 75},{'totalCount': 44}
+ApolloAuto/apollo,https://github.com/ApolloAuto/apollo,{'name': 'C++'},{'totalCount': 2266},{'totalCount': 1643}
+gfwlist/gfwlist,https://github.com/gfwlist/gfwlist,,{'totalCount': 1925},{'totalCount': 1393}
+vuejs/vuepress,https://github.com/vuejs/vuepress,{'name': 'JavaScript'},{'totalCount': 1436},{'totalCount': 1185}
+vuejs/vue-router,https://github.com/vuejs/vue-router,{'name': 'JavaScript'},{'totalCount': 2385},{'totalCount': 2267}
+Micropoor/Micro8,https://github.com/Micropoor/Micro8,,{'totalCount': 40},{'totalCount': 30}
+jesseduffield/lazygit,https://github.com/jesseduffield/lazygit,{'name': 'Go'},{'totalCount': 426},{'totalCount': 325}
+adobe-fonts/source-code-pro,https://github.com/adobe-fonts/source-code-pro,{'name': 'CSS'},{'totalCount': 186},{'totalCount': 141}
+mbadolato/iTerm2-Color-Schemes,https://github.com/mbadolato/iTerm2-Color-Schemes,{'name': 'Shell'},{'totalCount': 57},{'totalCount': 47}
+goldfire/howler.js,https://github.com/goldfire/howler.js,{'name': 'JavaScript'},{'totalCount': 1106},{'totalCount': 767}
+facebook/fresco,https://github.com/facebook/fresco,{'name': 'Java'},{'totalCount': 2099},{'totalCount': 1994}
+sebastianbergmann/phpunit,https://github.com/sebastianbergmann/phpunit,{'name': 'PHP'},{'totalCount': 2678},{'totalCount': 2581}
+wekan/wekan,https://github.com/wekan/wekan,{'name': 'JavaScript'},{'totalCount': 2290},{'totalCount': 1730}
+palantir/blueprint,https://github.com/palantir/blueprint,{'name': 'TypeScript'},{'totalCount': 2097},{'totalCount': 1613}
+onevcat/Kingfisher,https://github.com/onevcat/Kingfisher,{'name': 'Swift'},{'totalCount': 932},{'totalCount': 878}
+twitter/typeahead.js,https://github.com/twitter/typeahead.js,{'name': 'JavaScript'},{'totalCount': 1314},{'totalCount': 903}
+getredash/redash,https://github.com/getredash/redash,{'name': 'JavaScript'},{'totalCount': 1884},{'totalCount': 1506}
+jhipster/generator-jhipster,https://github.com/jhipster/generator-jhipster,{'name': 'JavaScript'},{'totalCount': 5779},{'totalCount': 5701}
+lenve/vhr,https://github.com/lenve/vhr,{'name': 'Java'},{'totalCount': 186},{'totalCount': 80}
+graphql/graphql-js,https://github.com/graphql/graphql-js,{'name': 'JavaScript'},{'totalCount': 818},{'totalCount': 738}
+eriklindernoren/ML-From-Scratch,https://github.com/eriklindernoren/ML-From-Scratch,{'name': 'Python'},{'totalCount': 53},{'totalCount': 33}
+servo/servo,https://github.com/servo/servo,{'name': 'Rust'},{'totalCount': 10944},{'totalCount': 7791}
+nicolargo/glances,https://github.com/nicolargo/glances,{'name': 'Python'},{'totalCount': 1201},{'totalCount': 1045}
+psf/black,https://github.com/psf/black,{'name': 'Python'},{'totalCount': 960},{'totalCount': 684}
+wenyan-lang/wenyan,https://github.com/wenyan-lang/wenyan,{'name': 'TypeScript'},{'totalCount': 434},{'totalCount': 284}
+reactnativecn/react-native-guide,https://github.com/reactnativecn/react-native-guide,,{'totalCount': 19},{'totalCount': 18}
+drduh/macOS-Security-and-Privacy-Guide,https://github.com/drduh/macOS-Security-and-Privacy-Guide,{'name': 'Python'},{'totalCount': 214},{'totalCount': 212}
+zeit/pkg,https://github.com/zeit/pkg,{'name': 'JavaScript'},{'totalCount': 799},{'totalCount': 312}
+JacksonTian/fks,https://github.com/JacksonTian/fks,{'name': 'JavaScript'},{'totalCount': 26},{'totalCount': 17}
+fabricjs/fabric.js,https://github.com/fabricjs/fabric.js,{'name': 'JavaScript'},{'totalCount': 4521},{'totalCount': 4304}
+ElemeFE/mint-ui,https://github.com/ElemeFE/mint-ui,{'name': 'Vue'},{'totalCount': 1213},{'totalCount': 980}
+uikit/uikit,https://github.com/uikit/uikit,{'name': 'CSS'},{'totalCount': 3667},{'totalCount': 3105}
+mojs/mojs,https://github.com/mojs/mojs,{'name': 'JavaScript'},{'totalCount': 174},{'totalCount': 119}
+alsotang/node-lessons,https://github.com/alsotang/node-lessons,{'name': 'JavaScript'},{'totalCount': 125},{'totalCount': 43}
+hashicorp/vault,https://github.com/hashicorp/vault,{'name': 'Go'},{'totalCount': 3591},{'totalCount': 3104}
+judasn/IntelliJ-IDEA-Tutorial,https://github.com/judasn/IntelliJ-IDEA-Tutorial,,{'totalCount': 67},{'totalCount': 66}
+HelloZeroNet/ZeroNet,https://github.com/HelloZeroNet/ZeroNet,{'name': 'Python'},{'totalCount': 1951},{'totalCount': 1344}
+jtoy/awesome-tensorflow,https://github.com/jtoy/awesome-tensorflow,,{'totalCount': 10},{'totalCount': 10}
+apache/kafka,https://github.com/apache/kafka,{'name': 'Java'},{'totalCount': 0},{'totalCount': 0}
+qiurunze123/miaosha,https://github.com/qiurunze123/miaosha,{'name': 'Java'},{'totalCount': 43},{'totalCount': 29}
+Kotlin/anko,https://github.com/Kotlin/anko,{'name': 'Kotlin'},{'totalCount': 616},{'totalCount': 377}
+marktext/marktext,https://github.com/marktext/marktext,{'name': 'JavaScript'},{'totalCount': 1314},{'totalCount': 993}
+jdg/MBProgressHUD,https://github.com/jdg/MBProgressHUD,{'name': 'Objective-C'},{'totalCount': 378},{'totalCount': 334}
+laurent22/joplin,https://github.com/laurent22/joplin,{'name': 'JavaScript'},{'totalCount': 2259},{'totalCount': 2055}
+uglide/RedisDesktopManager,https://github.com/uglide/RedisDesktopManager,{'name': 'C++'},{'totalCount': 4276},{'totalCount': 4233}
+nosir/cleave.js,https://github.com/nosir/cleave.js,{'name': 'JavaScript'},{'totalCount': 416},{'totalCount': 316}
+jashkenas/coffeescript,https://github.com/jashkenas/coffeescript,{'name': 'CoffeeScript'},{'totalCount': 4054},{'totalCount': 4020}
+swoole/swoole-src,https://github.com/swoole/swoole-src,{'name': 'C++'},{'totalCount': 2376},{'totalCount': 2333}
+sebastianruder/NLP-progress,https://github.com/sebastianruder/NLP-progress,{'name': 'Python'},{'totalCount': 78},{'totalCount': 57}
+google/flexbox-layout,https://github.com/google/flexbox-layout,{'name': 'Kotlin'},{'totalCount': 270},{'totalCount': 200}
+hubotio/hubot,https://github.com/hubotio/hubot,{'name': 'JavaScript'},{'totalCount': 746},{'totalCount': 683}
+js-cookie/js-cookie,https://github.com/js-cookie/js-cookie,{'name': 'JavaScript'},{'totalCount': 409},{'totalCount': 406}
+validatorjs/validator.js,https://github.com/validatorjs/validator.js,{'name': 'JavaScript'},{'totalCount': 675},{'totalCount': 582}
+seata/seata,https://github.com/seata/seata,{'name': 'Java'},{'totalCount': 1405},{'totalCount': 1153}
+google/ExoPlayer,https://github.com/google/ExoPlayer,{'name': 'Java'},{'totalCount': 6452},{'totalCount': 6058}
+jenkinsci/jenkins,https://github.com/jenkinsci/jenkins,{'name': 'Java'},{'totalCount': 0},{'totalCount': 0}
+framework7io/framework7,https://github.com/framework7io/framework7,{'name': 'JavaScript'},{'totalCount': 3038},{'totalCount': 2940}
+MLEveryday/100-Days-Of-ML-Code,https://github.com/MLEveryday/100-Days-Of-ML-Code,{'name': 'Jupyter Notebook'},{'totalCount': 46},{'totalCount': 38}
+eggjs/egg,https://github.com/eggjs/egg,{'name': 'JavaScript'},{'totalCount': 3230},{'totalCount': 3103}
+mysqljs/mysql,https://github.com/mysqljs/mysql,{'name': 'JavaScript'},{'totalCount': 1962},{'totalCount': 1837}
+reddit-archive/reddit,https://github.com/reddit-archive/reddit,{'name': 'Python'},{'totalCount': 0},{'totalCount': 0}
+zhaoolee/ChromeAppHeroes,https://github.com/zhaoolee/ChromeAppHeroes,{'name': 'JavaScript'},{'totalCount': 36},{'totalCount': 27}
+winstonjs/winston,https://github.com/winstonjs/winston,{'name': 'JavaScript'},{'totalCount': 1147},{'totalCount': 859}
+google/googletest,https://github.com/google/googletest,{'name': 'C++'},{'totalCount': 1479},{'totalCount': 1331}
+iptv-org/iptv,https://github.com/iptv-org/iptv,{'name': 'JavaScript'},{'totalCount': 267},{'totalCount': 217}
+handlebars-lang/handlebars.js,https://github.com/handlebars-lang/handlebars.js,{'name': 'JavaScript'},{'totalCount': 1223},{'totalCount': 1178}
+shuzheng/zheng,https://github.com/shuzheng/zheng,{'name': 'Java'},{'totalCount': 88},{'totalCount': 60}
+1c7/chinese-independent-developer,https://github.com/1c7/chinese-independent-developer,,{'totalCount': 52},{'totalCount': 50}
+rubocop-hq/ruby-style-guide,https://github.com/rubocop-hq/ruby-style-guide,,{'totalCount': 291},{'totalCount': 228}
+android/plaid,https://github.com/android/plaid,{'name': 'Kotlin'},{'totalCount': 330},{'totalCount': 271}
+iissnan/hexo-theme-next,https://github.com/iissnan/hexo-theme-next,{'name': 'CSS'},{'totalCount': 1833},{'totalCount': 1773}
+FelisCatus/SwitchyOmega,https://github.com/FelisCatus/SwitchyOmega,{'name': 'CoffeeScript'},{'totalCount': 1998},{'totalCount': 1632}
+StevenBlack/hosts,https://github.com/StevenBlack/hosts,{'name': 'Python'},{'totalCount': 869},{'totalCount': 838}
+rust-unofficial/awesome-rust,https://github.com/rust-unofficial/awesome-rust,{'name': 'Rust'},{'totalCount': 81},{'totalCount': 68}
+phoenixframework/phoenix,https://github.com/phoenixframework/phoenix,{'name': 'Elixir'},{'totalCount': 1871},{'totalCount': 1860}
+bower/bower,https://github.com/bower/bower,{'name': 'JavaScript'},{'totalCount': 1897},{'totalCount': 1892}
+YMFE/yapi,https://github.com/YMFE/yapi,{'name': 'JavaScript'},{'totalCount': 1583},{'totalCount': 740}
+Binaryify/NeteaseCloudMusicApi,https://github.com/Binaryify/NeteaseCloudMusicApi,{'name': 'JavaScript'},{'totalCount': 672},{'totalCount': 633}
+visionmedia/superagent,https://github.com/visionmedia/superagent,{'name': 'JavaScript'},{'totalCount': 957},{'totalCount': 837}
+ChristosChristofidis/awesome-deep-learning,https://github.com/ChristosChristofidis/awesome-deep-learning,,{'totalCount': 13},{'totalCount': 13}
+ruanyf/react-demos,https://github.com/ruanyf/react-demos,{'name': 'JavaScript'},{'totalCount': 27},{'totalCount': 27}
+libuv/libuv,https://github.com/libuv/libuv,{'name': 'C'},{'totalCount': 1184},{'totalCount': 1113}
+ipader/SwiftGuide,https://github.com/ipader/SwiftGuide,{'name': 'Swift'},{'totalCount': 27},{'totalCount': 27}
+tensorflow/magenta,https://github.com/tensorflow/magenta,{'name': 'Python'},{'totalCount': 679},{'totalCount': 459}
+v8/v8,https://github.com/v8/v8,{'name': 'C++'},{'totalCount': 0},{'totalCount': 0}
+jamiebuilds/react-loadable,https://github.com/jamiebuilds/react-loadable,{'name': 'JavaScript'},{'totalCount': 0},{'totalCount': 0}
+alibaba/ice,https://github.com/alibaba/ice,{'name': 'JavaScript'},{'totalCount': 1324},{'totalCount': 1270}
+statsd/statsd,https://github.com/statsd/statsd,{'name': 'JavaScript'},{'totalCount': 257},{'totalCount': 217}
+fish-shell/fish-shell,https://github.com/fish-shell/fish-shell,{'name': 'Shell'},{'totalCount': 4987},{'totalCount': 4508}
+Tencent/tinker,https://github.com/Tencent/tinker,{'name': 'Java'},{'totalCount': 1277},{'totalCount': 994}
+facebook/folly,https://github.com/facebook/folly,{'name': 'C++'},{'totalCount': 672},{'totalCount': 494}
+basecamp/trix,https://github.com/basecamp/trix,{'name': 'CoffeeScript'},{'totalCount': 597},{'totalCount': 556}
+jesseduffield/lazydocker,https://github.com/jesseduffield/lazydocker,{'name': 'Go'},{'totalCount': 129},{'totalCount': 72}
+wangzheng0822/algo,https://github.com/wangzheng0822/algo,{'name': 'Python'},{'totalCount': 100},{'totalCount': 17}
+poteto/hiring-without-whiteboards,https://github.com/poteto/hiring-without-whiteboards,{'name': 'JavaScript'},{'totalCount': 0},{'totalCount': 0}
+enyo/dropzone,https://github.com/enyo/dropzone,{'name': 'JavaScript'},{'totalCount': 0},{'totalCount': 0}
+commaai/openpilot,https://github.com/commaai/openpilot,{'name': 'C++'},{'totalCount': 432},{'totalCount': 396}
+halo-dev/halo,https://github.com/halo-dev/halo,{'name': 'Java'},{'totalCount': 559},{'totalCount': 499}
+celery/celery,https://github.com/celery/celery,{'name': 'Python'},{'totalCount': 4105},{'totalCount': 3717}
+PHPMailer/PHPMailer,https://github.com/PHPMailer/PHPMailer,{'name': 'PHP'},{'totalCount': 1566},{'totalCount': 1514}
+jeromeetienne/AR.js,https://github.com/jeromeetienne/AR.js,{'name': 'HTML'},{'totalCount': 624},{'totalCount': 619}
+datasciencemasters/go,https://github.com/datasciencemasters/go,,{'totalCount': 45},{'totalCount': 22}
+notable/notable,https://github.com/notable/notable,{'name': 'TypeScript'},{'totalCount': 1050},{'totalCount': 746}
+keystonejs/keystone-classic,https://github.com/keystonejs/keystone-classic,{'name': 'JavaScript'},{'totalCount': 2447},{'totalCount': 2150}
+HubSpot/pace,https://github.com/HubSpot/pace,{'name': 'CSS'},{'totalCount': 418},{'totalCount': 139}
+golang-standards/project-layout,https://github.com/golang-standards/project-layout,{'name': 'Makefile'},{'totalCount': 42},{'totalCount': 9}
+popperjs/popper-core,https://github.com/popperjs/popper-core,{'name': 'JavaScript'},{'totalCount': 613},{'totalCount': 612}
+kriskowal/q,https://github.com/kriskowal/q,{'name': 'JavaScript'},{'totalCount': 547},{'totalCount': 447}
+n0shake/Public-APIs,https://github.com/n0shake/Public-APIs,,{'totalCount': 35},{'totalCount': 31}
+chaozh/awesome-blockchain-cn,https://github.com/chaozh/awesome-blockchain-cn,{'name': 'JavaScript'},{'totalCount': 25},{'totalCount': 18}
+sindresorhus/quick-look-plugins,https://github.com/sindresorhus/quick-look-plugins,,{'totalCount': 78},{'totalCount': 72}
+jasmine/jasmine,https://github.com/jasmine/jasmine,{'name': 'JavaScript'},{'totalCount': 1252},{'totalCount': 1192}
+hapijs/joi,https://github.com/hapijs/joi,{'name': 'JavaScript'},{'totalCount': 1818},{'totalCount': 1796}
+crystal-lang/crystal,https://github.com/crystal-lang/crystal,{'name': 'Crystal'},{'totalCount': 5067},{'totalCount': 4199}
+madrobby/zepto,https://github.com/madrobby/zepto,{'name': 'HTML'},{'totalCount': 746},{'totalCount': 678}
+sirupsen/logrus,https://github.com/sirupsen/logrus,{'name': 'Go'},{'totalCount': 515},{'totalCount': 435}
+cjbarber/ToolsOfTheTrade,https://github.com/cjbarber/ToolsOfTheTrade,,{'totalCount': 37},{'totalCount': 36}
+designmodo/Flat-UI,https://github.com/designmodo/Flat-UI,{'name': 'CSS'},{'totalCount': 188},{'totalCount': 179}
+dvajs/dva,https://github.com/dvajs/dva,{'name': 'JavaScript'},{'totalCount': 2033},{'totalCount': 1996}
+angular-ui/bootstrap,https://github.com/angular-ui/bootstrap,{'name': 'JavaScript'},{'totalCount': 4455},{'totalCount': 4185}
+nostalgic-css/NES.css,https://github.com/nostalgic-css/NES.css,{'name': 'CSS'},{'totalCount': 151},{'totalCount': 130}
+desandro/masonry,https://github.com/desandro/masonry,{'name': 'HTML'},{'totalCount': 1074},{'totalCount': 1043}
+bazelbuild/bazel,https://github.com/bazelbuild/bazel,{'name': 'Java'},{'totalCount': 7622},{'totalCount': 5434}
+Developer-Y/cs-video-courses,https://github.com/Developer-Y/cs-video-courses,,{'totalCount': 21},{'totalCount': 18}
+wagerfield/parallax,https://github.com/wagerfield/parallax,{'name': 'JavaScript'},{'totalCount': 244},{'totalCount': 200}
+electron-react-boilerplate/electron-react-boilerplate,https://github.com/electron-react-boilerplate/electron-react-boilerplate,{'name': 'TypeScript'},{'totalCount': 1159},{'totalCount': 1126}
+joewalnes/websocketd,https://github.com/joewalnes/websocketd,{'name': 'Go'},{'totalCount': 275},{'totalCount': 250}
+shieldfy/API-Security-Checklist,https://github.com/shieldfy/API-Security-Checklist,,{'totalCount': 29},{'totalCount': 19}
+quasarframework/quasar,https://github.com/quasarframework/quasar,{'name': 'JavaScript'},{'totalCount': 4346},{'totalCount': 4153}
+oxford-cs-deepnlp-2017/lectures,https://github.com/oxford-cs-deepnlp-2017/lectures,,{'totalCount': 16},{'totalCount': 6}
+reduxjs/redux-thunk,https://github.com/reduxjs/redux-thunk,{'name': 'JavaScript'},{'totalCount': 182},{'totalCount': 180}
+iview/iview-admin,https://github.com/iview/iview-admin,{'name': 'Vue'},{'totalCount': 1156},{'totalCount': 605}
+nuysoft/Mock,https://github.com/nuysoft/Mock,{'name': 'JavaScript'},{'totalCount': 371},{'totalCount': 131}
+portainer/portainer,https://github.com/portainer/portainer,{'name': 'HTML'},{'totalCount': 2556},{'totalCount': 1969}
+microsoft/MS-DOS,https://github.com/microsoft/MS-DOS,{'name': 'Assembly'},{'totalCount': 52},{'totalCount': 49}
+zziz/pwc,https://github.com/zziz/pwc,,{'totalCount': 19},{'totalCount': 4}
+acdlite/recompose,https://github.com/acdlite/recompose,{'name': 'JavaScript'},{'totalCount': 427},{'totalCount': 373}
+microsoft/api-guidelines,https://github.com/microsoft/api-guidelines,,{'totalCount': 77},{'totalCount': 53}
+ionic-team/ionicons,https://github.com/ionic-team/ionicons,{'name': 'TypeScript'},{'totalCount': 705},{'totalCount': 390}
+tsenart/vegeta,https://github.com/tsenart/vegeta,{'name': 'Go'},{'totalCount': 321},{'totalCount': 287}
+nswbmw/N-blog,https://github.com/nswbmw/N-blog,{'name': 'JavaScript'},{'totalCount': 434},{'totalCount': 419}
+yabwe/medium-editor,https://github.com/yabwe/medium-editor,{'name': 'JavaScript'},{'totalCount': 898},{'totalCount': 600}
+AllThingsSmitty/css-protips,https://github.com/AllThingsSmitty/css-protips,,{'totalCount': 43},{'totalCount': 39}
+swisskyrepo/PayloadsAllTheThings,https://github.com/swisskyrepo/PayloadsAllTheThings,{'name': 'Python'},{'totalCount': 41},{'totalCount': 35}
+chalk/chalk,https://github.com/chalk/chalk,{'name': 'JavaScript'},{'totalCount': 262},{'totalCount': 252}
+twbs/ratchet,https://github.com/twbs/ratchet,{'name': 'CSS'},{'totalCount': 536},{'totalCount': 334}
+facebook/relay,https://github.com/facebook/relay,{'name': 'JavaScript'},{'totalCount': 1571},{'totalCount': 1383}
+tqdm/tqdm,https://github.com/tqdm/tqdm,{'name': 'Python'},{'totalCount': 623},{'totalCount': 415}
+spf13/spf13-vim,https://github.com/spf13/spf13-vim,{'name': 'Vim script'},{'totalCount': 720},{'totalCount': 408}
+wuyouzhuguli/SpringAll,https://github.com/wuyouzhuguli/SpringAll,{'name': 'Java'},{'totalCount': 29},{'totalCount': 22}
+machinelearningmindset/TensorFlow-Course,https://github.com/machinelearningmindset/TensorFlow-Course,{'name': 'Python'},{'totalCount': 9},{'totalCount': 9}
+Tencent/mars,https://github.com/Tencent/mars,{'name': 'C++'},{'totalCount': 699},{'totalCount': 530}
+alibaba/easyexcel,https://github.com/alibaba/easyexcel,{'name': 'Java'},{'totalCount': 1188},{'totalCount': 1165}
+PostgREST/postgrest,https://github.com/PostgREST/postgrest,{'name': 'Haskell'},{'totalCount': 928},{'totalCount': 832}
+0xd4d/dnSpy,https://github.com/0xd4d/dnSpy,{'name': 'C#'},{'totalCount': 1357},{'totalCount': 1222}
+cocos2d/cocos2d-x,https://github.com/cocos2d/cocos2d-x,{'name': 'C++'},{'totalCount': 4771},{'totalCount': 3496}
+briannesbitt/Carbon,https://github.com/briannesbitt/Carbon,{'name': 'PHP'},{'totalCount': 900},{'totalCount': 891}
+airbnb/react-sketchapp,https://github.com/airbnb/react-sketchapp,{'name': 'TypeScript'},{'totalCount': 285},{'totalCount': 261}
+libra/libra,https://github.com/libra/libra,{'name': 'Rust'},{'totalCount': 683},{'totalCount': 447}
+limetext/lime,https://github.com/limetext/lime,,{'totalCount': 401},{'totalCount': 380}
+binux/pyspider,https://github.com/binux/pyspider,{'name': 'Python'},{'totalCount': 791},{'totalCount': 541}
+material-components/material-components-web,https://github.com/material-components/material-components-web,{'name': 'TypeScript'},{'totalCount': 2462},{'totalCount': 2171}
+altercation/solarized,https://github.com/altercation/solarized,{'name': 'Vim script'},{'totalCount': 244},{'totalCount': 95}
+homebridge/homebridge,https://github.com/homebridge/homebridge,{'name': 'TypeScript'},{'totalCount': 2235},{'totalCount': 2213}
+fastify/fastify,https://github.com/fastify/fastify,{'name': 'JavaScript'},{'totalCount': 890},{'totalCount': 840}
+dwmkerr/hacker-laws,https://github.com/dwmkerr/hacker-laws,,{'totalCount': 128},{'totalCount': 40}
+infernojs/inferno,https://github.com/infernojs/inferno,{'name': 'JavaScript'},{'totalCount': 815},{'totalCount': 782}
+hollischuang/toBeTopJavaer,https://github.com/hollischuang/toBeTopJavaer,{'name': 'Java'},{'totalCount': 35},{'totalCount': 25}
+dennybritz/reinforcement-learning,https://github.com/dennybritz/reinforcement-learning,{'name': 'Jupyter Notebook'},{'totalCount': 141},{'totalCount': 55}
+google/flatbuffers,https://github.com/google/flatbuffers,{'name': 'C++'},{'totalCount': 1320},{'totalCount': 1114}
+charlax/professional-programming,https://github.com/charlax/professional-programming,{'name': 'Shell'},{'totalCount': 7},{'totalCount': 7}
+leereilly/games,https://github.com/leereilly/games,,{'totalCount': 198},{'totalCount': 75}
+mxgmn/WaveFunctionCollapse,https://github.com/mxgmn/WaveFunctionCollapse,{'name': 'C#'},{'totalCount': 35},{'totalCount': 32}
+android10/Android-CleanArchitecture,https://github.com/android10/Android-CleanArchitecture,{'name': 'Java'},{'totalCount': 246},{'totalCount': 121}
+adam-golab/react-developer-roadmap,https://github.com/adam-golab/react-developer-roadmap,{'name': 'JavaScript'},{'totalCount': 38},{'totalCount': 18}
+didi/DoraemonKit,https://github.com/didi/DoraemonKit,{'name': 'Java'},{'totalCount': 325},{'totalCount': 309}
+hackiftekhar/IQKeyboardManager,https://github.com/hackiftekhar/IQKeyboardManager,{'name': 'Objective-C'},{'totalCount': 1538},{'totalCount': 1507}
+rancher/rancher,https://github.com/rancher/rancher,{'name': 'Go'},{'totalCount': 22254},{'totalCount': 19631}
+riot/riot,https://github.com/riot/riot,{'name': 'JavaScript'},{'totalCount': 2086},{'totalCount': 2082}
+elastic/kibana,https://github.com/elastic/kibana,{'name': 'TypeScript'},{'totalCount': 24256},{'totalCount': 17937}
+ipython/ipython,https://github.com/ipython/ipython,{'name': 'Python'},{'totalCount': 6344},{'totalCount': 5045}
+braydie/HowToBeAProgrammer,https://github.com/braydie/HowToBeAProgrammer,,{'totalCount': 21},{'totalCount': 17}
+hzlzh/Best-App,https://github.com/hzlzh/Best-App,,{'totalCount': 65},{'totalCount': 30}
+Shopify/draggable,https://github.com/Shopify/draggable,{'name': 'JavaScript'},{'totalCount': 225},{'totalCount': 123}
+svg/svgo,https://github.com/svg/svgo,{'name': 'JavaScript'},{'totalCount': 897},{'totalCount': 625}
+facebook/prepack,https://github.com/facebook/prepack,{'name': 'JavaScript'},{'totalCount': 767},{'totalCount': 561}
+eligrey/FileSaver.js,https://github.com/eligrey/FileSaver.js,{'name': 'JavaScript'},{'totalCount': 510},{'totalCount': 432}
+jsdom/jsdom,https://github.com/jsdom/jsdom,{'name': 'JavaScript'},{'totalCount': 1778},{'totalCount': 1490}
+trekhleb/homemade-machine-learning,https://github.com/trekhleb/homemade-machine-learning,{'name': 'Jupyter Notebook'},{'totalCount': 18},{'totalCount': 7}
+CarGuo/GSYVideoPlayer,https://github.com/CarGuo/GSYVideoPlayer,{'name': 'Java'},{'totalCount': 2598},{'totalCount': 2583}
+websockets/ws,https://github.com/websockets/ws,{'name': 'JavaScript'},{'totalCount': 1149},{'totalCount': 1142}
+recharts/recharts,https://github.com/recharts/recharts,{'name': 'TypeScript'},{'totalCount': 1788},{'totalCount': 1676}
+DrKLO/Telegram,https://github.com/DrKLO/Telegram,{'name': 'Java'},{'totalCount': 0},{'totalCount': 0}
+wangshub/wechat_jump_game,https://github.com/wangshub/wechat_jump_game,{'name': 'Python'},{'totalCount': 984},{'totalCount': 958}
+luong-komorebi/Awesome-Linux-Software,https://github.com/luong-komorebi/Awesome-Linux-Software,{'name': 'Python'},{'totalCount': 99},{'totalCount': 92}
+PKUanonym/REKCARC-TSC-UHT,https://github.com/PKUanonym/REKCARC-TSC-UHT,{'name': 'HTML'},{'totalCount': 17},{'totalCount': 9}
+tj/git-extras,https://github.com/tj/git-extras,{'name': 'Shell'},{'totalCount': 302},{'totalCount': 217}
+mozilla/DeepSpeech,https://github.com/mozilla/DeepSpeech,{'name': 'C++'},{'totalCount': 1673},{'totalCount': 1605}
+yudai/gotty,https://github.com/yudai/gotty,{'name': 'Go'},{'totalCount': 192},{'totalCount': 118}
+fbsamples/f8app,https://github.com/fbsamples/f8app,{'name': 'JavaScript'},{'totalCount': 203},{'totalCount': 187}
+realm/realm-cocoa,https://github.com/realm/realm-cocoa,{'name': 'Objective-C'},{'totalCount': 3952},{'totalCount': 3499}
+angular-ui/ui-router,https://github.com/angular-ui/ui-router,{'name': 'TypeScript'},{'totalCount': 3159},{'totalCount': 3146}
+go-delve/delve,https://github.com/go-delve/delve,{'name': 'Go'},{'totalCount': 1063},{'totalCount': 964}
+iperov/DeepFaceLab,https://github.com/iperov/DeepFaceLab,{'name': 'Python'},{'totalCount': 642},{'totalCount': 581}
+janl/mustache.js,https://github.com/janl/mustache.js,{'name': 'JavaScript'},{'totalCount': 426},{'totalCount': 371}
+dotnet-architecture/eShopOnContainers,https://github.com/dotnet-architecture/eShopOnContainers,{'name': 'C#'},{'totalCount': 845},{'totalCount': 796}
+Eugeny/terminus,https://github.com/Eugeny/terminus,{'name': 'TypeScript'},{'totalCount': 1465},{'totalCount': 1140}
+WordPress/WordPress,https://github.com/WordPress/WordPress,{'name': 'PHP'},{'totalCount': 0},{'totalCount': 0}
+apollographql/apollo-client,https://github.com/apollographql/apollo-client,{'name': 'TypeScript'},{'totalCount': 2726},{'totalCount': 2191}
+huge-success/sanic,https://github.com/huge-success/sanic,{'name': 'Python'},{'totalCount': 870},{'totalCount': 815}
+GeekyAnts/NativeBase,https://github.com/GeekyAnts/NativeBase,{'name': 'JavaScript'},{'totalCount': 2442},{'totalCount': 2225}
+SpaceVim/SpaceVim,https://github.com/SpaceVim/SpaceVim,{'name': 'Vim script'},{'totalCount': 1722},{'totalCount': 1672}
+ccxt/ccxt,https://github.com/ccxt/ccxt,{'name': 'JavaScript'},{'totalCount': 4403},{'totalCount': 4083}
+PerfectlySoft/Perfect,https://github.com/PerfectlySoft/Perfect,{'name': 'Swift'},{'totalCount': 183},{'totalCount': 134}
+xuxueli/xxl-job,https://github.com/xuxueli/xxl-job,{'name': 'Java'},{'totalCount': 1438},{'totalCount': 1352}
+Carthage/Carthage,https://github.com/Carthage/Carthage,{'name': 'Swift'},{'totalCount': 1873},{'totalCount': 1725}
+vim-airline/vim-airline,https://github.com/vim-airline/vim-airline,{'name': 'Vim script'},{'totalCount': 1471},{'totalCount': 1449}
+norvig/pytudes,https://github.com/norvig/pytudes,{'name': 'Jupyter Notebook'},{'totalCount': 20},{'totalCount': 10}
+menzi11/BullshitGenerator,https://github.com/menzi11/BullshitGenerator,{'name': 'JavaScript'},{'totalCount': 138},{'totalCount': 27}
+alibaba/canal,https://github.com/alibaba/canal,{'name': 'Java'},{'totalCount': 2317},{'totalCount': 1872}
+urfave/cli,https://github.com/urfave/cli,{'name': 'Go'},{'totalCount': 516},{'totalCount': 446}
+FormidableLabs/webpack-dashboard,https://github.com/FormidableLabs/webpack-dashboard,{'name': 'JavaScript'},{'totalCount': 205},{'totalCount': 173}
+MengTo/Spring,https://github.com/MengTo/Spring,{'name': 'Swift'},{'totalCount': 220},{'totalCount': 88}
+youzan/vant,https://github.com/youzan/vant,{'name': 'JavaScript'},{'totalCount': 3886},{'totalCount': 3859}
+ampproject/amphtml,https://github.com/ampproject/amphtml,{'name': 'JavaScript'},{'totalCount': 10744},{'totalCount': 8968}
+numpy/numpy,https://github.com/numpy/numpy,{'name': 'C'},{'totalCount': 8422},{'totalCount': 6552}
+Awesome-HarmonyOS/HarmonyOS,https://github.com/Awesome-HarmonyOS/HarmonyOS,{'name': 'C'},{'totalCount': 0},{'totalCount': 0}
+yaronn/blessed-contrib,https://github.com/yaronn/blessed-contrib,{'name': 'JavaScript'},{'totalCount': 113},{'totalCount': 58}
+css-modules/css-modules,https://github.com/css-modules/css-modules,,{'totalCount': 304},{'totalCount': 218}
+hemanth/functional-programming-jargon,https://github.com/hemanth/functional-programming-jargon,,{'totalCount': 63},{'totalCount': 42}
+dotnet/core,https://github.com/dotnet/core,{'name': 'Shell'},{'totalCount': 3211},{'totalCount': 2965}
+apache/incubator-weex,https://github.com/apache/incubator-weex,{'name': 'C++'},{'totalCount': 842},{'totalCount': 688}
+handsontable/handsontable,https://github.com/handsontable/handsontable,{'name': 'JavaScript'},{'totalCount': 5880},{'totalCount': 5108}
+getlantern/download,https://github.com/getlantern/download,,{'totalCount': 0},{'totalCount': 0}
+30-seconds/30-seconds-of-css,https://github.com/30-seconds/30-seconds-of-css,{'name': 'CSS'},{'totalCount': 57},{'totalCount': 57}
+hwdsl2/setup-ipsec-vpn,https://github.com/hwdsl2/setup-ipsec-vpn,{'name': 'Shell'},{'totalCount': 734},{'totalCount': 727}
+ibireme/YYKit,https://github.com/ibireme/YYKit,{'name': 'Objective-C'},{'totalCount': 482},{'totalCount': 240}
+viraptor/reverse-interview,https://github.com/viraptor/reverse-interview,,{'totalCount': 17},{'totalCount': 11}
+TKkk-iOSer/WeChatPlugin-MacOS,https://github.com/TKkk-iOSer/WeChatPlugin-MacOS,{'name': 'Objective-C'},{'totalCount': 554},{'totalCount': 423}
+docsifyjs/docsify,https://github.com/docsifyjs/docsify,{'name': 'JavaScript'},{'totalCount': 776},{'totalCount': 678}
+react-dnd/react-dnd,https://github.com/react-dnd/react-dnd,{'name': 'TypeScript'},{'totalCount': 1231},{'totalCount': 1116}
+amazeui/amazeui,https://github.com/amazeui/amazeui,{'name': 'JavaScript'},{'totalCount': 700},{'totalCount': 564}
+preservim/nerdtree,https://github.com/preservim/nerdtree,{'name': 'Vim script'},{'totalCount': 761},{'totalCount': 751}
+cool-RR/PySnooper,https://github.com/cool-RR/PySnooper,{'name': 'Python'},{'totalCount': 96},{'totalCount': 81}
+toml-lang/toml,https://github.com/toml-lang/toml,,{'totalCount': 360},{'totalCount': 330}
+pshihn/rough,https://github.com/pshihn/rough,{'name': 'TypeScript'},{'totalCount': 95},{'totalCount': 85}
+geeeeeeeeek/electronic-wechat,https://github.com/geeeeeeeeek/electronic-wechat,{'name': 'JavaScript'},{'totalCount': 594},{'totalCount': 397}
+tiangolo/fastapi,https://github.com/tiangolo/fastapi,{'name': 'Python'},{'totalCount': 967},{'totalCount': 791}
+fivethirtyeight/data,https://github.com/fivethirtyeight/data,{'name': 'Jupyter Notebook'},{'totalCount': 101},{'totalCount': 72}
+Awesome-Windows/Awesome,https://github.com/Awesome-Windows/Awesome,,{'totalCount': 68},{'totalCount': 63}
+mybatis/mybatis-3,https://github.com/mybatis/mybatis-3,{'name': 'Java'},{'totalCount': 988},{'totalCount': 878}
+cayleygraph/cayley,https://github.com/cayleygraph/cayley,{'name': 'Go'},{'totalCount': 459},{'totalCount': 389}
+Kong/insomnia,https://github.com/Kong/insomnia,{'name': 'JavaScript'},{'totalCount': 1611},{'totalCount': 1294}
+yiisoft/yii2,https://github.com/yiisoft/yii2,{'name': 'PHP'},{'totalCount': 10618},{'totalCount': 10155}
+you-dont-need/You-Dont-Need-JavaScript,https://github.com/you-dont-need/You-Dont-Need-JavaScript,{'name': 'CSS'},{'totalCount': 34},{'totalCount': 9}
+realm/SwiftLint,https://github.com/realm/SwiftLint,{'name': 'Swift'},{'totalCount': 1628},{'totalCount': 1278}
+angular/angular-seed,https://github.com/angular/angular-seed,{'name': 'JavaScript'},{'totalCount': 213},{'totalCount': 204}
+sharkdp/fd,https://github.com/sharkdp/fd,{'name': 'Rust'},{'totalCount': 353},{'totalCount': 331}
+bokeh/bokeh,https://github.com/bokeh/bokeh,{'name': 'Python'},{'totalCount': 5883},{'totalCount': 5371}
+source-foundry/Hack,https://github.com/source-foundry/Hack,{'name': 'Shell'},{'totalCount': 429},{'totalCount': 333}
+facebookarchive/AsyncDisplayKit,https://github.com/facebookarchive/AsyncDisplayKit,{'name': 'Objective-C++'},{'totalCount': 1365},{'totalCount': 1343}
+cmusatyalab/openface,https://github.com/cmusatyalab/openface,{'name': 'Lua'},{'totalCount': 367},{'totalCount': 364}
+interagent/http-api-design,https://github.com/interagent/http-api-design,,{'totalCount': 46},{'totalCount': 17}
+ccgus/fmdb,https://github.com/ccgus/fmdb,{'name': 'Objective-C'},{'totalCount': 525},{'totalCount': 309}
+dbeaver/dbeaver,https://github.com/dbeaver/dbeaver,{'name': 'Java'},{'totalCount': 7908},{'totalCount': 6614}
+aFarkas/lazysizes,https://github.com/aFarkas/lazysizes,{'name': 'JavaScript'},{'totalCount': 671},{'totalCount': 545}
+oblador/react-native-vector-icons,https://github.com/oblador/react-native-vector-icons,{'name': 'JavaScript'},{'totalCount': 930},{'totalCount': 693}
+lgvalle/Material-Animations,https://github.com/lgvalle/Material-Animations,{'name': 'Java'},{'totalCount': 40},{'totalCount': 27}
+kailashahirwar/cheatsheets-ai,https://github.com/kailashahirwar/cheatsheets-ai,,{'totalCount': 14},{'totalCount': 8}
+so-fancy/diff-so-fancy,https://github.com/so-fancy/diff-so-fancy,{'name': 'Perl'},{'totalCount': 212},{'totalCount': 203}
+alibaba/spring-cloud-alibaba,https://github.com/alibaba/spring-cloud-alibaba,{'name': 'Java'},{'totalCount': 902},{'totalCount': 681}
+prisma-archive/chromeless,https://github.com/prisma-archive/chromeless,{'name': 'TypeScript'},{'totalCount': 332},{'totalCount': 160}
+spotify/luigi,https://github.com/spotify/luigi,{'name': 'Python'},{'totalCount': 836},{'totalCount': 797}
+google/fonts,https://github.com/google/fonts,{'name': 'HTML'},{'totalCount': 1257},{'totalCount': 583}
+frappe/charts,https://github.com/frappe/charts,{'name': 'JavaScript'},{'totalCount': 188},{'totalCount': 97}
+haoel/leetcode,https://github.com/haoel/leetcode,{'name': 'C++'},{'totalCount': 50},{'totalCount': 34}
+bitcoinbook/bitcoinbook,https://github.com/bitcoinbook/bitcoinbook,{'name': 'Python'},{'totalCount': 263},{'totalCount': 207}
+apache/skywalking,https://github.com/apache/skywalking,{'name': 'Java'},{'totalCount': 2281},{'totalCount': 2190}
+dianping/cat,https://github.com/dianping/cat,{'name': 'Java'},{'totalCount': 991},{'totalCount': 942}
+ty4z2008/Qix,https://github.com/ty4z2008/Qix,,{'totalCount': 20},{'totalCount': 20}
+zsh-users/zsh-autosuggestions,https://github.com/zsh-users/zsh-autosuggestions,{'name': 'Shell'},{'totalCount': 377},{'totalCount': 348}
+vurtun/nuklear,https://github.com/vurtun/nuklear,{'name': 'C'},{'totalCount': 659},{'totalCount': 451}
+xkcoding/spring-boot-demo,https://github.com/xkcoding/spring-boot-demo,{'name': 'Java'},{'totalCount': 83},{'totalCount': 52}
+google/eng-practices,https://github.com/google/eng-practices,,{'totalCount': 4},{'totalCount': 1}
+pubkey/rxdb,https://github.com/pubkey/rxdb,{'name': 'TypeScript'},{'totalCount': 368},{'totalCount': 365}
+browserify/browserify,https://github.com/browserify/browserify,{'name': 'JavaScript'},{'totalCount': 1415},{'totalCount': 1098}
+golang/dep,https://github.com/golang/dep,{'name': 'Go'},{'totalCount': 1349},{'totalCount': 1086}
+CoderMJLee/MJRefresh,https://github.com/CoderMJLee/MJRefresh,{'name': 'Objective-C'},{'totalCount': 1243},{'totalCount': 1218}
+philc/vimium,https://github.com/philc/vimium,{'name': 'JavaScript'},{'totalCount': 2601},{'totalCount': 1924}
+vadimdemedes/ink,https://github.com/vadimdemedes/ink,{'name': 'TypeScript'},{'totalCount': 157},{'totalCount': 118}
+salomonelli/best-resume-ever,https://github.com/salomonelli/best-resume-ever,{'name': 'Vue'},{'totalCount': 113},{'totalCount': 92}
+tensorflow/tfjs,https://github.com/tensorflow/tfjs,{'name': 'TypeScript'},{'totalCount': 2084},{'totalCount': 1645}
+marcuswestin/WebViewJavascriptBridge,https://github.com/marcuswestin/WebViewJavascriptBridge,{'name': 'Objective-C'},{'totalCount': 263},{'totalCount': 197}
+ethereum/wiki,https://github.com/ethereum/wiki,,{'totalCount': 321},{'totalCount': 303}
+strongloop/loopback,https://github.com/strongloop/loopback,{'name': 'JavaScript'},{'totalCount': 3251},{'totalCount': 3242}
+nfl/react-helmet,https://github.com/nfl/react-helmet,{'name': 'JavaScript'},{'totalCount': 321},{'totalCount': 202}
+zyedidia/micro,https://github.com/zyedidia/micro,{'name': 'Go'},{'totalCount': 1158},{'totalCount': 864}
+facebook/yoga,https://github.com/facebook/yoga,{'name': 'C++'},{'totalCount': 460},{'totalCount': 262}
+dgraph-io/dgraph,https://github.com/dgraph-io/dgraph,{'name': 'Go'},{'totalCount': 2161},{'totalCount': 1912}
+tj/n,https://github.com/tj/n,{'name': 'Shell'},{'totalCount': 404},{'totalCount': 400}
+substack/stream-handbook,https://github.com/substack/stream-handbook,{'name': 'JavaScript'},{'totalCount': 46},{'totalCount': 11}
+helm/charts,https://github.com/helm/charts,{'name': 'Go'},{'totalCount': 5588},{'totalCount': 5310}
+matomo-org/matomo,https://github.com/matomo-org/matomo,{'name': 'PHP'},{'totalCount': 10872},{'totalCount': 9167}
+nginx-proxy/nginx-proxy,https://github.com/nginx-proxy/nginx-proxy,{'name': 'Python'},{'totalCount': 1046},{'totalCount': 539}
+processing/p5.js,https://github.com/processing/p5.js,{'name': 'JavaScript'},{'totalCount': 2626},{'totalCount': 2537}
+pouchdb/pouchdb,https://github.com/pouchdb/pouchdb,{'name': 'JavaScript'},{'totalCount': 3884},{'totalCount': 3842}
+hdodenhof/CircleImageView,https://github.com/hdodenhof/CircleImageView,{'name': 'Java'},{'totalCount': 328},{'totalCount': 324}
+nikic/PHP-Parser,https://github.com/nikic/PHP-Parser,{'name': 'PHP'},{'totalCount': 410},{'totalCount': 367}
+signalapp/Signal-Android,https://github.com/signalapp/Signal-Android,{'name': 'Java'},{'totalCount': 7409},{'totalCount': 6865}
+maxwellito/vivus,https://github.com/maxwellito/vivus,{'name': 'JavaScript'},{'totalCount': 179},{'totalCount': 172}
+sqlitebrowser/sqlitebrowser,https://github.com/sqlitebrowser/sqlitebrowser,{'name': 'C++'},{'totalCount': 1814},{'totalCount': 1430}
+geeeeeeeeek/git-recipes,https://github.com/geeeeeeeeek/git-recipes,,{'totalCount': 0},{'totalCount': 0}
+envoyproxy/envoy,https://github.com/envoyproxy/envoy,{'name': 'C++'},{'totalCount': 3793},{'totalCount': 3080}
+jobbole/awesome-java-cn,https://github.com/jobbole/awesome-java-cn,,{'totalCount': 14},{'totalCount': 11}
+redisson/redisson,https://github.com/redisson/redisson,{'name': 'Java'},{'totalCount': 2445},{'totalCount': 2308}
